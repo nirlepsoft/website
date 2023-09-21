@@ -117,7 +117,7 @@
               <div class="ree-card-img shadows"><img src="images/icons/mobile-app.svg" alt="services"> </div>
               <div class="ree-card-content mt40">
                 <h3 class="mb15"><a href="service-details.html"> App Development</a></h3>
-                <p>Our software house has been recognised by google for outstanding android application	quality.</p>
+                <p>Our team is skilled at crafting mobile applications that cater to your specific requirements. Whether you need an iOS or Android app, we have the experience and knowledge to turn your ideas into high-quality, user-friendly applications.</p>
               </div>
               <div class="ree-card-content-link">
                 <a href="service-details.html" class="ree-card-link mt40">Read More <i class="fas fa-arrow-right fa-btn"></i> </a>
@@ -129,7 +129,7 @@
               <div class="ree-card-img"><img src="images/icons/website.svg" alt="services"> </div>
               <div class="ree-card-content mt40">
                 <h3 class="mb15"><a href="service-details.html">Web Development</a></h3>
-                <p>At Reevan, We offer pixel perfect responsive website design services which are built around aesthetics and usability.</p>
+                <p>We offer a comprehensive web design solution tailored to your needs, focusing on creating websites that boost your business. Our dedication to enhancing UI/UX ensures a superior user experience and improved conversion rates.</p>
               </div>
               <div class="ree-card-content-link">
                 <a href="service-details.html" class="ree-card-link mt40">Read More <i class="fas fa-arrow-right fa-btn"></i>
@@ -142,7 +142,7 @@
               <div class="ree-card-img"><img src="images/icons/buy-online.svg" alt="services"> </div>
               <div class="ree-card-content mt40">
                 <h3 class="mb15"><a href="service-details.html">eCommerce Service</a></h3>
-                <p>Reevan’s product design services cover entire product design lifecycle, From prototyping to fully functional design.</p>
+                <p>Within our IT services, we specialize in E-commerce solutions, ranging from crafting online stores to improving user journeys, payment gateways, and security. Let us elevate your digital business presence.</p>
               </div>
               <div class="ree-card-content-link">
                 <a href="service-details.html" class="ree-card-link mt40">Read More <i class="fas fa-arrow-right fa-btn"></i>
@@ -155,7 +155,7 @@
               <div class="ree-card-img"><img src="images/icons/communicate.svg" alt="services"> </div>
               <div class="ree-card-content mt40">
                 <h3 class="mb15"><a href="service-details.html">Digital Marketing</a></h3>
-                <p>Increase conversions. Increase leads. Increase sales. Increase revenue. That's digital marketing services from Reevan.</p>
+                <p>We excel in digital marketing using lead generation and email campaigns. Our strategies boost online visibility and drive conversions. Allow us to enhance your brand's digital footprint and unlock growth opportunities</p>
               </div>
               <div class="ree-card-content-link">
                 <a href="service-details.html" class="ree-card-link mt40">Read More <i class="fas fa-arrow-right fa-btn"></i>
@@ -168,7 +168,7 @@
               <div class="ree-card-img"><img src="images/icons/design-tools.svg" alt="services"> </div>
               <div class="ree-card-content mt40">
                 <h3 class="mb15"><a href="service-details.html">Product Design</a></h3>
-                <p>Our highly experienced designers comprehend your vision and business objectives in order to create the designs.</p>
+                <p>Our team specializes in crafting user-centric and innovative product experiences. From concept to prototyping, we bring your ideas to life, ensuring a seamless blend of aesthetics and functionality. Let us help you create products that stand out in today's competitive market.</p>
               </div>
               <div class="ree-card-content-link">
                 <a href="service-details.html" class="ree-card-link mt40">Read More <i class="fas fa-arrow-right fa-btn"></i>
@@ -181,7 +181,7 @@
               <div class="ree-card-img"><img src="images/icons/servers.svg" alt="services"> </div>
               <div class="ree-card-content mt40">
                 <h3 class="mb15"><a href="service-details.html">Cloud Services</a></h3>
-                <p>Our highly experienced designers comprehend your vision and business objectives in order to create the designs.</p>
+                <p>We excel in AWS cloud solutions, offering a wide range of services. Whether you require migration, optimization, or leveraging AWS's extensive ecosystem, we have the expertise to help your business thrive in the cloud era.</p>
               </div>
               <div class="ree-card-content-link">
                 <a href="service-details.html" class="ree-card-link mt40">Read More <i class="fas fa-arrow-right fa-btn"></i>
@@ -296,6 +296,14 @@
 
                 <li class="nav-item">
                   <a class="nav-link" id="tab3c" data-toggle="tab" href="#tab3" role="tab" aria-controls="tab3" aria-selected="false">Database </a>
+                </li>
+
+                <li class="nav-item">
+                  <a class="nav-link" id="tab7c" data-toggle="tab" href="#tab7" role="tab" aria-controls="tab7" aria-selected="false">AWS Cloud </a>
+                </li>
+
+                <li class="nav-item">
+                  <a class="nav-link" id="tab8c" data-toggle="tab" href="#tab8" role="tab" aria-controls="tab8" aria-selected="false">CI/CD </a>
                 </li>
 
               </ul>
@@ -491,6 +499,17 @@
                           </a>
                         </div>
                       </div>
+                      <div class="col-lg-2 col-md-3 col-sm-4 col-6">
+                        <div class="icon-with-title">
+                          <a href="javascript:void(0)">
+                            <div class="iwt-icon"> <img src="images/icons/couchbase.png"
+                              alt="couchbase-icon"> </div>
+                            <div class="iwt-content">
+                              <p>Couchbase</p>
+                            </div>
+                          </a>
+                        </div>
+                      </div>
                     </div>
                   </div>
                 </div>
@@ -659,8 +678,8 @@
                               </div>
                           </div>
                       </div>
-                  </div>
-                  <div class="tab-pane fade active show" id="tab6" role="tabpanel" aria-labelledby="tab6c">
+                </div>
+                <div class="tab-pane fade" id="tab6" role="tabpanel" aria-labelledby="tab6c">
                       <div class="tab-data-cont">
                           <div class="row justify-content-center">
                               <div class="col-lg-2 col-md-3 col-sm-4 col-6">
@@ -720,7 +739,118 @@
                               </div>
                           </div>
                       </div>
-                  </div>
+                </div>
+                <div class="tab-pane fade" id="tab7" role="tabpanel" aria-labelledby="tab7c">
+                      <div class="tab-data-cont">
+                          <div class="row justify-content-center">
+                              <div class="col-lg-2 col-md-3 col-sm-4 col-6">
+                                  <div class="icon-with-title">
+                                      <a href="javascript:void(0)">
+                                          <div class="iwt-icon"> <img src="images/icons/lambda.png"
+                                                                      alt="Lambda"> </div>
+                                          <div class="iwt-content">
+                                              <p>Lambda</p>
+                                          </div>
+                                      </a>
+                                  </div>
+                              </div>
+                              <div class="col-lg-2 col-md-3 col-sm-4 col-6">
+                                  <div class="icon-with-title">
+                                      <a href="javascript:void(0)">
+                                          <div class="iwt-icon"> <img src="images/icons/s3.png"
+                                                                      alt="AWS S3"> </div>
+                                          <div class="iwt-content">
+                                              <p>S3</p>
+                                          </div>
+                                      </a>
+                                  </div>
+                              </div>
+                              <div class="col-lg-2 col-md-3 col-sm-4 col-6">
+                                  <div class="icon-with-title">
+                                      <a href="javascript:void(0)">
+                                          <div class="iwt-icon"> <img src="images/icons/efs.png"
+                                                                      alt="AWS EFS"> </div>
+                                          <div class="iwt-content">
+                                              <p>EFS</p>
+                                          </div>
+                                      </a>
+                                  </div>
+                              </div>
+                              <div class="col-lg-2 col-md-3 col-sm-4 col-6">
+                                  <div class="icon-with-title">
+                                      <a href="javascript:void(0)">
+                                          <div class="iwt-icon"> <img src="images/icons/sqs.png"
+                                                                      alt="AWS SQS"> </div>
+                                          <div class="iwt-content">
+                                              <p>SQS</p>
+                                          </div>
+                                      </a>
+                                  </div>
+                              </div>
+                              <div class="col-lg-2 col-md-3 col-sm-4 col-6">
+                                  <div class="icon-with-title">
+                                      <a href="javascript:void(0)">
+                                          <div class="iwt-icon"> <img src="images/icons/ec2.png"
+                                                                      alt="AWS EC2"> </div>
+                                          <div class="iwt-content">
+                                              <p>EC2</p>
+                                          </div>
+                                      </a>
+                                  </div>
+                              </div>
+                          </div>
+                      </div>
+                </div>
+                <div class="tab-pane fade" id="tab8" role="tabpanel" aria-labelledby="tab8c">
+                      <div class="tab-data-cont">
+                          <div class="row justify-content-center">
+                              <div class="col-lg-2 col-md-3 col-sm-4 col-6">
+                                  <div class="icon-with-title">
+                                      <a href="javascript:void(0)">
+                                          <div class="iwt-icon"> <img src="images/icons/azure.png"
+                                                                      alt="Azure"> </div>
+                                          <div class="iwt-content">
+                                              <p>Azure</p>
+                                          </div>
+                                      </a>
+                                  </div>
+                              </div>
+                              <div class="col-lg-2 col-md-3 col-sm-4 col-6">
+                                  <div class="icon-with-title">
+                                      <a href="javascript:void(0)">
+                                          <div class="iwt-icon"> <img src="images/icons/jenkins.png"
+                                                                      alt="Jenkins"> </div>
+                                          <div class="iwt-content">
+                                              <p>Jenkins</p>
+                                          </div>
+                                      </a>
+                                  </div>
+                              </div>
+                              <div class="col-lg-2 col-md-3 col-sm-4 col-6">
+                                  <div class="icon-with-title">
+                                      <a href="javascript:void(0)">
+                                          <div class="iwt-icon"> <img src="images/icons/circleCi.png"
+                                                                      alt="circleCi"> </div>
+                                          <div class="iwt-content">
+                                              <p>circleCi</p>
+                                          </div>
+                                      </a>
+                                  </div>
+                              </div>
+                              <div class="col-lg-2 col-md-3 col-sm-4 col-6">
+                                  <div class="icon-with-title">
+                                      <a href="javascript:void(0)">
+                                          <div class="iwt-icon"> <img src="images/icons/travis.png"
+                                                                      alt="Travis"> </div>
+                                          <div class="iwt-content">
+                                              <p>Travis</p>
+                                          </div>
+                                      </a>
+                                  </div>
+                              </div>
+                          </div>
+                      </div>
+                </div>
               </div>
             </div>
           </div>
