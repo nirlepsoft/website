@@ -5,11 +5,10 @@
         <div class="row">
           <div class="col-lg-6 vcenter">
             <div class="hero-content-a">
-              <h1 class="h1 mb30" data-aos="fade-in" data-aos-delay="200"><span class="ree-text rt60">Award</span> winning Digital marketing agency</h1>
-              <p data-aos="fade-in" data-aos-delay="500">Reevan solve the world's biggest problems with Expertise. Reevan helps global brand with
-                digital products on web, mobile and connected platforms.
+              <h1 class="h1 mb30" data-aos="fade-in" data-aos-delay="200"><span class="ree-text rt60">Elevate</span> Your Projects with ABC ^</h1>
+              <p data-aos="fade-in" data-aos-delay="500">Boost your digital presence with a Company led by engineers with 15+ years of expertise. Let us help you transform your business.
               </p>
-              <a href="get-quote.html" class="ree-btn  ree-btn-grdt1 mt40 mw-80" data-aos="fade-in" data-aos-delay="800">Let's Talk <i class="fas fa-arrow-right fa-btn"></i></a>
+              <a href="get-quote.html" class="ree-btn  ree-btn-grdt1 mt40 mw-80">Let's Talk <i class="fas fa-arrow-right fa-btn"></i></a>
             </div>
           </div>
           <div class="col-lg-6 vcenter">
@@ -45,19 +44,19 @@
         <div class="row">
           <div class="col-lg-6">
             <div class="about-content-home m-mb60 pera-block">
-              <span class="sub-heading mb15">We Are Reevan</span>
-              <h2><span class="ree-text rt40">Top-rated</span> Web And Mobile App Development	Company</h2>
-              <p>Reevan started its operation in the year 1999. We are Worldwide, based Web, App	and Digital Marketing Company. Our main Domain is Web Design, App Development, Digital
-                Marketing, Product Design and Cloud Services. Customer Satisfaction and the Highest rate of	Customer Repeatability make us one of the pioneers in the field. So, what are you waiting
+              <span class="sub-heading mb15">We Are ABC</span>
+              <h2><span class="ree-text rt40">An experienced</span> Web And Mobile App Development	Company</h2>
+              <p style="margin-bottom: 30px;">ABC specialize in Web Design, App Development, Testing Automation, AWS Solutions, Architecture Design, and Building Microservices. Harness our expertise for transformative IT solutions. So, what are you waiting
                 for? Let us discuss your ideas and our innovation in detail because catering your requirement and converting it into a final product is our main goal.
               </p>
-              <div class="company-budges mt60 mb60">
+
+              <!-- <div class="company-budges mt60 mb60">
                 <div class="img-budges"><img src="images/icons/badge-a.png" alt="Awards badges"	class="img-fluid"></div>
                 <div class="img-budges"><img src="images/icons/badge-b.png" alt="Awards badges"	class="img-fluid"></div>
                 <div class="img-budges"><img src="images/icons/badge-c.png" alt="Awards badges"	class="img-fluid"></div>
-              </div>
+              </div> -->
               <div class="btn-sets">
-                <a href="about.html" class="ree-btn  ree-btn-grdt2 mr20">About Us <i	class="fas fa-arrow-right fa-btn"></i></a>
+                <a href="about.php" class="ree-btn  ree-btn-grdt1 mw-80" style="margin-right: 10px;">About Us<i class="fas fa-arrow-right fa-btn"></i></a>
                 <div class="vid-btntitl">
                   <a href="https://www.youtube.com/watch?v=7e90gBu4pas?autoplay=1&amp;rel=0" class="ree-btn  ree-btn-grdt1 ree-btn-round video-popup"><i class="fas fa-play"></i></a>
                   <div class="vide-btntitl vcenter">
@@ -73,25 +72,24 @@
                 <div class="col-lg-6 col-6 m-pr7">
                   <div class="stats-box stat-bx-1" data-aos="fade-up" data-aos-delay="200">
                     <span class="sub-heading mb20">Projects</span>
-                    <h3>7500<span>+</span></h3>
-                    <p class="mt20">Reevan Delivered the Thousands of Successful projects around the world.</p>
+                    <h3>13<span>+</span></h3>
+                    <p class="mt20">Our consistent track record of successful project deliveries is a testament to our unwavering commitment.</p>
                   </div>
                   <div class="stats-box stat-bx-2 mt20" data-aos="fade-up" data-aos-delay="600">
                     <span class="sub-heading mb20">Team</span>
-                    <h3>540<span>+</span></h3>
-                    <p class="mt20">Our team consists of highly qualified, experienced and knowledgeable.</p>
+                    <h3>10<span>+</span></h3>
+                    <p class="mt20">Our small but impactful team thrives on delivering big results. With expertise, we redefine what's possible.</p>
                   </div>
                 </div>
                 <div class="col-lg-6 col-6 m-pl7">
                   <div class="stats-box stat-bx-3 mt100" data-aos="fade-up" data-aos-delay="400">
                     <span class="sub-heading mb20">Clients</span>
-                    <h3>3500<span>+</span></h3>
-                    <p class="mt20">Reevan Delivered the Thousands of Successful projects around the world.</p>
+                    <h3>7<span>+</span></h3>
+                    <p class="mt20">Happy clients are the true measure of our success, reflecting the satisfaction we bring to every partnership.</p>
                   </div>
                   <div class="stats-box stat-bx-4 mt20" data-aos="fade-up" data-aos-delay="800">
                     <span class="sub-heading mb20">Years</span>
-                    <h3>20<span>+</span></h3>
-                    <p class="mt20">Clients across the globe witness our quality, processes and work.
+                    <h3>15<span>+</span></h3><p class="mt20">With a strong foothold in the IT industry, we've continually pushed boundaries, leading innovation and setting new standards.
                     </p>
                   </div>
                 </div>
@@ -109,7 +107,7 @@
           <div class="col-lg-8">
             <div class="sec-heading text-center pera-block">
               <h2>See what we can <span class="ree-text rt40">do</span> for <span class="ree-text rt40">you</span></h2>
-              <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.</p>
+              <p>Discover the possibilities we can unlock through software solutions tailored to your needs.</p>
             </div>
           </div>
         </div>
@@ -637,6 +635,28 @@
                                       </a>
                                   </div>
                               </div>
+                              <div class="col-lg-2 col-md-3 col-sm-4 col-6">
+                                  <div class="icon-with-title">
+                                      <a href="javascript:void(0)">
+                                          <div class="iwt-icon"> <img src="images/icons/go.svg"
+                                                                      alt="Go"> </div>
+                                          <div class="iwt-content">
+                                              <p>Go</p>
+                                          </div>
+                                      </a>
+                                  </div>
+                              </div>
+                              <div class="col-lg-2 col-md-3 col-sm-4 col-6">
+                                  <div class="icon-with-title">
+                                      <a href="javascript:void(0)">
+                                          <div class="iwt-icon"> <img src="images/icons/ruby.png"
+                                                                      alt="Ruby"> </div>
+                                          <div class="iwt-content">
+                                              <p>Ruby</p>
+                                          </div>
+                                      </a>
+                                  </div>
+                              </div>
                           </div>
                       </div>
                   </div>
@@ -690,21 +710,10 @@
                               <div class="col-lg-2 col-md-3 col-sm-4 col-6">
                                   <div class="icon-with-title">
                                       <a href="javascript:void(0)">
-                                          <div class="iwt-icon"> <img src="images/icons/go.svg"
-                                                                      alt="Go"> </div>
-                                          <div class="iwt-content">
-                                              <p>Go</p>
-                                          </div>
-                                      </a>
-                                  </div>
-                              </div>
-                              <div class="col-lg-2 col-md-3 col-sm-4 col-6">
-                                  <div class="icon-with-title">
-                                      <a href="javascript:void(0)">
                                           <div class="iwt-icon"> <img src="images/icons/rails.svg"
-                                                                      alt="Ruby On Rails"> </div>
+                                                                      alt="Rails"> </div>
                                           <div class="iwt-content">
-                                              <p>Ruby On Rails</p>
+                                              <p>Rails</p>
                                           </div>
                                       </a>
                                   </div>
