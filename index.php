@@ -280,21 +280,29 @@
           <div class="col-md-10 mt60">
             <div class="tab-17 tabs-layout">
               <ul class="nav nav-tabs justify-content-center" id="myTab3" role="tablist">
+                  <li class="nav-item">
+                      <a class="nav-link active" id="tab6c" data-toggle="tab" href="#tab6" role="tab" aria-controls="tab6" aria-selected="true">Frameworks </a>
+                  </li>
                 <li class="nav-item">
-                  <a class="nav-link active" id="tab1a" data-toggle="tab" href="#tab1" role="tab" aria-controls="tab1" aria-selected="true">Mobile</a>
+                  <a class="nav-link" id="tab1a" data-toggle="tab" href="#tab1" role="tab" aria-controls="tab1" aria-selected="false">Mobile</a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" id="tab2b" data-toggle="tab" href="#tab2" role="tab" aria-controls="tab2" aria-selected="false">Front End</a>
                 </li>
+                  <li class="nav-item">
+                      <a class="nav-link" id="tab5c" data-toggle="tab" href="#tab5" role="tab" aria-controls="tab5" aria-selected="false">Back End</a>
+                  </li>
+                  <li class="nav-item">
+                      <a class="nav-link" id="tab4c" data-toggle="tab" href="#tab4" role="tab"	aria-controls="tab4" aria-selected="false">CMS </a>
+                  </li>
+
                 <li class="nav-item">
                   <a class="nav-link" id="tab3c" data-toggle="tab" href="#tab3" role="tab" aria-controls="tab3" aria-selected="false">Database </a>
                 </li>
-                <li class="nav-item">
-                  <a class="nav-link" id="tab4c" data-toggle="tab" href="#tab4" role="tab"	aria-controls="tab4" aria-selected="false">CMS </a>
-                </li>
+
               </ul>
               <div class="tab-content" id="myTabContent3">
-                <div class="tab-pane fade active show" id="tab1" role="tabpanel" aria-labelledby="tab1a">
+                <div class="tab-pane fade" id="tab1" role="tabpanel" aria-labelledby="tab1a">
                   <div class="tab-data-cont">
                     <div class="row justify-content-center">
                       <div class="col-lg-2 col-md-3 col-sm-4 col-6">
@@ -333,54 +341,10 @@
                       <div class="col-lg-2 col-md-3 col-sm-4 col-6">
                         <div class="icon-with-title">
                           <a href="javascript:void(0)">
-                            <div class="iwt-icon"> <img src="images/icons/java.svg" alt="Java">
-                            </div>
-                            <div class="iwt-content">
-                              <p>Java</p>
-                            </div>
-                          </a>
-                        </div>
-                      </div>
-                      <div class="col-lg-2 col-md-3 col-sm-4 col-6">
-                        <div class="icon-with-title">
-                          <a href="javascript:void(0)">
                             <div class="iwt-icon"> <img src="images/icons/physics.svg"
                               alt="React Native"> </div>
                             <div class="iwt-content">
                               <p>React Native</p>
-                            </div>
-                          </a>
-                        </div>
-                      </div>
-                      <div class="col-lg-2 col-md-3 col-sm-4 col-6">
-                        <div class="icon-with-title">
-                          <a href="javascript:void(0)">
-                            <div class="iwt-icon"> <img src="images/icons/apple.svg"
-                              alt="python"> </div>
-                            <div class="iwt-content">
-                              <p>Python</p>
-                            </div>
-                          </a>
-                        </div>
-                      </div>
-                      <div class="col-lg-2 col-md-3 col-sm-4 col-6">
-                        <div class="icon-with-title">
-                          <a href="javascript:void(0)">
-                            <div class="iwt-icon"> <img src="images/icons/java.svg" alt="Java">
-                            </div>
-                            <div class="iwt-content">
-                              <p>Java</p>
-                            </div>
-                          </a>
-                        </div>
-                      </div>
-                      <div class="col-lg-2 col-md-3 col-sm-4 col-6">
-                        <div class="icon-with-title">
-                          <a href="javascript:void(0)">
-                            <div class="iwt-icon"> <img src="images/icons/swift.svg"
-                              alt="Apswiftple"> </div>
-                            <div class="iwt-content">
-                              <p>Swift</p>
                             </div>
                           </a>
                         </div>
@@ -427,17 +391,6 @@
                       <div class="col-lg-2 col-md-3 col-sm-4 col-6">
                         <div class="icon-with-title">
                           <a href="javascript:void(0)">
-                            <div class="iwt-icon"> <img src="images/icons/Npm-logo.svg"
-                              alt="Npm-logo"> </div>
-                            <div class="iwt-content">
-                              <p>Npm </p>
-                            </div>
-                          </a>
-                        </div>
-                      </div>
-                      <div class="col-lg-2 col-md-3 col-sm-4 col-6">
-                        <div class="icon-with-title">
-                          <a href="javascript:void(0)">
                             <div class="iwt-icon"> <img src="images/icons/typescript.svg"
                               alt="typescript"> </div>
                             <div class="iwt-content">
@@ -475,17 +428,6 @@
                               alt="bootstrap"> </div>
                             <div class="iwt-content">
                               <p>Bootstrap</p>
-                            </div>
-                          </a>
-                        </div>
-                      </div>
-                      <div class="col-lg-2 col-md-3 col-sm-4 col-6">
-                        <div class="icon-with-title">
-                          <a href="javascript:void(0)">
-                            <div class="iwt-icon"> <img src="images/icons/Node.js_logo.svg"
-                              alt="Node.js_logo"> </div>
-                            <div class="iwt-content">
-                              <p>Node.JS</p>
                             </div>
                           </a>
                         </div>
@@ -547,50 +489,6 @@
                               alt="postgresql-icon"> </div>
                             <div class="iwt-content">
                               <p>PostgreSQL</p>
-                            </div>
-                          </a>
-                        </div>
-                      </div>
-                      <div class="col-lg-2 col-md-3 col-sm-4 col-6">
-                        <div class="icon-with-title">
-                          <a href="javascript:void(0)">
-                            <div class="iwt-icon"> <img src="images/icons/oracle.svg"
-                              alt="oracle-logo"> </div>
-                            <div class="iwt-content">
-                              <p>Oracle</p>
-                            </div>
-                          </a>
-                        </div>
-                      </div>
-                      <div class="col-lg-2 col-md-3 col-sm-4 col-6">
-                        <div class="icon-with-title">
-                          <a href="javascript:void(0)">
-                            <div class="iwt-icon"> <img src="images/icons/sqlite.svg"
-                              alt="sqlite"> </div>
-                            <div class="iwt-content">
-                              <p>Sqlite</p>
-                            </div>
-                          </a>
-                        </div>
-                      </div>
-                      <div class="col-lg-2 col-md-3 col-sm-4 col-6">
-                        <div class="icon-with-title">
-                          <a href="javascript:void(0)">
-                            <div class="iwt-icon"> <img src="images/icons/aws-rds.svg"
-                              alt="aws-rds"> </div>
-                            <div class="iwt-content">
-                              <p>AWS-RDS</p>
-                            </div>
-                          </a>
-                        </div>
-                      </div>
-                      <div class="col-lg-2 col-md-3 col-sm-4 col-6">
-                        <div class="icon-with-title">
-                          <a href="javascript:void(0)">
-                            <div class="iwt-icon"> <img src="images/icons/microsoft-access.svg"
-                              alt="microsoft-access"> </div>
-                            <div class="iwt-content">
-                              <p>Microsoft-Access</p>
                             </div>
                           </a>
                         </div>
@@ -692,6 +590,128 @@
                     </div>
                   </div>
                 </div>
+                <div class="tab-pane fade" id="tab5" role="tabpanel" aria-labelledby="tab5c">
+                      <div class="tab-data-cont">
+                          <div class="row justify-content-center">
+                              <div class="col-lg-2 col-md-3 col-sm-4 col-6">
+                                  <div class="icon-with-title">
+                                      <a href="javascript:void(0)">
+                                          <div class="iwt-icon"> <img src="images/icons/php.png"
+                                                                      alt="PHP"> </div>
+                                          <div class="iwt-content">
+                                              <p>php</p>
+                                          </div>
+                                      </a>
+                                  </div>
+                              </div>
+                              <div class="col-lg-2 col-md-3 col-sm-4 col-6">
+                                  <div class="icon-with-title">
+                                      <a href="javascript:void(0)">
+                                          <div class="iwt-icon"> <img src="images/icons/node-js.svg"
+                                                                      alt="Node Js"> </div>
+                                          <div class="iwt-content">
+                                              <p>Node Js</p>
+                                          </div>
+                                      </a>
+                                  </div>
+                              </div>
+                              <div class="col-lg-2 col-md-3 col-sm-4 col-6">
+                                  <div class="icon-with-title">
+                                      <a href="javascript:void(0)">
+                                          <div class="iwt-icon"> <img src="images/icons/python-1.svg"
+                                                                      alt="python"> </div>
+                                          <div class="iwt-content">
+                                              <p>Python</p>
+                                          </div>
+                                      </a>
+                                  </div>
+                              </div>
+                              <div class="col-lg-2 col-md-3 col-sm-4 col-6">
+                                  <div class="icon-with-title">
+                                      <a href="javascript:void(0)">
+                                          <div class="iwt-icon"> <img src="images/icons/net1.png"
+                                                                      alt=".net"> </div>
+                                          <div class="iwt-content">
+                                              <p>.Net</p>
+                                          </div>
+                                      </a>
+                                  </div>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="tab-pane fade active show" id="tab6" role="tabpanel" aria-labelledby="tab6c">
+                      <div class="tab-data-cont">
+                          <div class="row justify-content-center">
+                              <div class="col-lg-2 col-md-3 col-sm-4 col-6">
+                                  <div class="icon-with-title">
+                                      <a href="javascript:void(0)">
+                                          <div class="iwt-icon"> <img src="images/icons/laravel.png"
+                                                                      alt="Laravel"> </div>
+                                          <div class="iwt-content">
+                                              <p>Laravel</p>
+                                          </div>
+                                      </a>
+                                  </div>
+                              </div>
+                              <div class="col-lg-2 col-md-3 col-sm-4 col-6">
+                                  <div class="icon-with-title">
+                                      <a href="javascript:void(0)">
+                                          <div class="iwt-icon"> <img src="images/icons/codeigniter.png"
+                                                                      alt="Codeigniter"> </div>
+                                          <div class="iwt-content">
+                                              <p>Codeigniter</p>
+                                          </div>
+                                      </a>
+                                  </div>
+                              </div>
+                              <div class="col-lg-2 col-md-3 col-sm-4 col-6">
+                                  <div class="icon-with-title">
+                                      <a href="javascript:void(0)">
+                                          <div class="iwt-icon"> <img src="images/icons/symfony.svg"
+                                                                      alt="symfony"> </div>
+                                          <div class="iwt-content">
+                                              <p>symfony</p>
+                                          </div>
+                                      </a>
+                                  </div>
+                              </div>
+                              <div class="col-lg-2 col-md-3 col-sm-4 col-6">
+                                  <div class="icon-with-title">
+                                      <a href="javascript:void(0)">
+                                          <div class="iwt-icon"> <img src="images/icons/cakephp.png"
+                                                                      alt="CakePHP"> </div>
+                                          <div class="iwt-content">
+                                              <p>CakePHP</p>
+                                          </div>
+                                      </a>
+                                  </div>
+                              </div>
+                              <div class="col-lg-2 col-md-3 col-sm-4 col-6">
+                                  <div class="icon-with-title">
+                                      <a href="javascript:void(0)">
+                                          <div class="iwt-icon"> <img src="images/icons/go.svg"
+                                                                      alt="Go"> </div>
+                                          <div class="iwt-content">
+                                              <p>Go</p>
+                                          </div>
+                                      </a>
+                                  </div>
+                              </div>
+                              <div class="col-lg-2 col-md-3 col-sm-4 col-6">
+                                  <div class="icon-with-title">
+                                      <a href="javascript:void(0)">
+                                          <div class="iwt-icon"> <img src="images/icons/rails.svg"
+                                                                      alt="Ruby On Rails"> </div>
+                                          <div class="iwt-content">
+                                              <p>Ruby On Rails</p>
+                                          </div>
+                                      </a>
+                                  </div>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
               </div>
             </div>
           </div>
@@ -700,112 +720,112 @@
     </section>
     <!--end technologies-->
     <!--start home review-->
-    <section class="r-bg-c sec-pad">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-12">
-            <div class="heading-review text-center">
-              <span class="sub-heading mb15">TESTIMONIALS</span>
-              <h2 class="mb50">Our <span class="ree-text rt40">clients</span> <span class="ree-text rt40">praise</span> us for our great results</h2>
-              <div class="home-review-slider owl-carousel mt30">
-                <div class="review-slider">
-                  <h4 class="mb20">"Reevan build my startup business a great website that really helps current and	potential customers get a good feel for my company."</h4>
-                  <p>I am delighted with our new website. A1 service and design by Reevan. You can go with the Web Design Company, and I 100% recommend them to anyone. The perfect company to go to for your ideal website and digital marketing.</p>
-                  <div class="reviewers mt60">
-                    <div class="reviewers-img">	<img src="images/users/user4.jpg" alt="client"> <a href="https://www.youtube.com/watch?v=7e90gBu4pas?autoplay=1&amp;rel=0"	class="play-vid-review video-popup" data-toggle="tooltip" data-placement="top" title="Play Video Review"><i class="fas fa-play"></i></a> </div>
-                    <div class="reviewers-nam">
-                      <h4>Moana Happy</h4>
-                      <p>Jaipur, Rajasthan</p>
-                    </div>
-                  </div>
-                </div>
-                <div class="review-slider">
-                  <h4 class="mb20">"Reevan build my startup business a great website that really helps current and potential customers get a good feel for my company."</h4>
-                  <p>I was facing multiple issues with my old website and that i discovered reevan. they resolved all the problems in the website they also helped me with marketing. which has helped me to acquire more customers. Retention on the website has also increased.</p>
-                  <div class="reviewers mt60">
-                    <div class="reviewers-img">	<img src="images/users/user4.jpg" alt="client"> <a href="https://www.youtube.com/watch?v=7e90gBu4pas?autoplay=1&amp;rel=0"	class="play-vid-review video-popup" data-toggle="tooltip" data-placement="top" title="Play Video Review"><i class="fas fa-play"></i></a></div>
-                    <div class="reviewers-nam">
-                      <h4>Moana Happy</h4>
-                      <p>Jaipur, Rajasthan</p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
+<!--    <section class="r-bg-c sec-pad">-->
+<!--      <div class="container">-->
+<!--        <div class="row">-->
+<!--          <div class="col-lg-12">-->
+<!--            <div class="heading-review text-center">-->
+<!--              <span class="sub-heading mb15">TESTIMONIALS</span>-->
+<!--              <h2 class="mb50">Our <span class="ree-text rt40">clients</span> <span class="ree-text rt40">praise</span> us for our great results</h2>-->
+<!--              <div class="home-review-slider owl-carousel mt30">-->
+<!--                <div class="review-slider">-->
+<!--                  <h4 class="mb20">"Reevan build my startup business a great website that really helps current and	potential customers get a good feel for my company."</h4>-->
+<!--                  <p>I am delighted with our new website. A1 service and design by Reevan. You can go with the Web Design Company, and I 100% recommend them to anyone. The perfect company to go to for your ideal website and digital marketing.</p>-->
+<!--                  <div class="reviewers mt60">-->
+<!--                    <div class="reviewers-img">	<img src="images/users/user4.jpg" alt="client"> <a href="https://www.youtube.com/watch?v=7e90gBu4pas?autoplay=1&amp;rel=0"	class="play-vid-review video-popup" data-toggle="tooltip" data-placement="top" title="Play Video Review"><i class="fas fa-play"></i></a> </div>-->
+<!--                    <div class="reviewers-nam">-->
+<!--                      <h4>Moana Happy</h4>-->
+<!--                      <p>Jaipur, Rajasthan</p>-->
+<!--                    </div>-->
+<!--                  </div>-->
+<!--                </div>-->
+<!--                <div class="review-slider">-->
+<!--                  <h4 class="mb20">"Reevan build my startup business a great website that really helps current and potential customers get a good feel for my company."</h4>-->
+<!--                  <p>I was facing multiple issues with my old website and that i discovered reevan. they resolved all the problems in the website they also helped me with marketing. which has helped me to acquire more customers. Retention on the website has also increased.</p>-->
+<!--                  <div class="reviewers mt60">-->
+<!--                    <div class="reviewers-img">	<img src="images/users/user4.jpg" alt="client"> <a href="https://www.youtube.com/watch?v=7e90gBu4pas?autoplay=1&amp;rel=0"	class="play-vid-review video-popup" data-toggle="tooltip" data-placement="top" title="Play Video Review"><i class="fas fa-play"></i></a></div>-->
+<!--                    <div class="reviewers-nam">-->
+<!--                      <h4>Moana Happy</h4>-->
+<!--                      <p>Jaipur, Rajasthan</p>-->
+<!--                    </div>-->
+<!--                  </div>-->
+<!--                </div>-->
+<!--              </div>-->
+<!--            </div>-->
+<!--          </div>-->
+<!--        </div>-->
+<!--      </div>-->
+<!--    </section>-->
     <!--end home review -->
     <!--start partners-->
-    <section class="home-partners-block r-bg-x sec-pad">
-      <div class="container">
-        <div class="row justify-content-center">
-          <div class="col-lg-8">
-            <div class="sec-heading text-center pera-block">
-              <h2>We Are Partner With <span class="ree-text rt40">Top</span> <span class="ree-text rt40">Ventures</span></h2>
-              <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis.</p>
-            </div>
-          </div>
-        </div>
-        <div class="row mt30">
-          <div class="col-lg-12">
-            <div class="clients-logos text-center col-12">
-              <ul class="row text-center clearfix">
-                <li class="col-lg-2 col-md-3 col-sm-4 col-4" data-aos="fade-in" data-aos-delay="100">
-                  <div class="brand-logo"><img src="images/brand-logo/brand-logo-11.png" alt="clients" class="img-fluid"></div>
-                  <p>Shutter, USA</p>
-                </li>
-                <li class="col-lg-2 col-md-3 col-sm-4 col-4" data-aos="fade-in" data-aos-delay="300">
-                  <div class="brand-logo"><img src="images/brand-logo/brand-logo-2.png" alt="clients"	class="img-fluid"></div>
-                  <p>Hipster, USA</p>
-                </li>
-                <li class="col-lg-2 col-md-3 col-sm-4 col-4" data-aos="fade-in" data-aos-delay="500">
-                  <div class="brand-logo"><img src="images/brand-logo/brand-logo-3.png" alt="clients"	class="img-fluid"></div>
-                  <p>Happy, USA</p>
-                </li>
-                <li class="col-lg-2 col-md-3 col-sm-4 col-4" data-aos="fade-in" data-aos-delay="700">
-                  <div class="brand-logo"><img src="images/brand-logo/brand-logo-4.png" alt="clients"	class="img-fluid"></div>
-                  <p>Opera Tours, USA</p>
-                </li>
-                <li class="col-lg-2 col-md-3 col-sm-4 col-4" data-aos="fade-in" data-aos-delay="900">
-                  <div class="brand-logo"><img src="images/brand-logo/brand-logo-5.png" alt="clients"	class="img-fluid"></div>
-                  <p>Shutter, USA</p>
-                </li>
-                <li class="col-lg-2 col-md-3 col-sm-4 col-4" data-aos="fade-in" data-aos-delay="1100">
-                  <div class="brand-logo"><img src="images/brand-logo/brand-logo-6.png" alt="clients"	class="img-fluid"></div>
-                  <p>Hipster, USA</p>
-                </li>
-                <li class="col-lg-2 col-md-3 col-sm-4 col-4" data-aos="fade-in" data-aos-delay="1300">
-                  <div class="brand-logo"><img src="images/brand-logo/brand-logo-7.png" alt="clients"	class="img-fluid"></div>
-                  <p>Happy, USA</p>
-                </li>
-                <li class="col-lg-2 col-md-3 col-sm-4 col-4" data-aos="fade-in" data-aos-delay="1500">
-                  <div class="brand-logo"><img src="images/brand-logo/brand-logo-8.png" alt="clients"	class="img-fluid"></div>
-                  <p>Opera Tours, USA</p>
-                </li>
-                <li class="col-lg-2 col-md-3 col-sm-4 col-4" data-aos="fade-in" data-aos-delay="1700">
-                  <div class="brand-logo"><img src="images/brand-logo/brand-logo-9.png" alt="clients"	class="img-fluid"></div>
-                  <p>Opera Tours, USA</p>
-                </li>
-                <li class="col-lg-2 col-md-3 col-sm-4 col-4" data-aos="fade-in" data-aos-delay="1900">
-                  <div class="brand-logo"><img src="images/brand-logo/brand-logo-10.png" alt="clients" class="img-fluid"></div>
-                  <p>Opera Tours, USA</p>
-                </li>
-                <li class="col-lg-2 col-md-3 col-sm-4 col-4" data-aos="fade-in" data-aos-delay="2100">
-                  <div class="brand-logo"><img src="images/brand-logo/brand-logo-11.png" alt="clients" class="img-fluid"></div>
-                  <p>Opera Tours, USA</p>
-                </li>
-                <li class="col-lg-2 col-md-3 col-sm-4 col-4" data-aos="fade-in" data-aos-delay="2300">
-                  <div class="brand-logo"><img src="images/brand-logo/brand-logo-12.png" alt="clients" class="img-fluid"></div>
-                  <p>Opera Tours, USA</p>
-                </li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
+<!--    <section class="home-partners-block r-bg-x sec-pad">-->
+<!--      <div class="container">-->
+<!--        <div class="row justify-content-center">-->
+<!--          <div class="col-lg-8">-->
+<!--            <div class="sec-heading text-center pera-block">-->
+<!--              <h2>We Are Partner With <span class="ree-text rt40">Top</span> <span class="ree-text rt40">Ventures</span></h2>-->
+<!--              <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis.</p>-->
+<!--            </div>-->
+<!--          </div>-->
+<!--        </div>-->
+<!--        <div class="row mt30">-->
+<!--          <div class="col-lg-12">-->
+<!--            <div class="clients-logos text-center col-12">-->
+<!--              <ul class="row text-center clearfix">-->
+<!--                <li class="col-lg-2 col-md-3 col-sm-4 col-4" data-aos="fade-in" data-aos-delay="100">-->
+<!--                  <div class="brand-logo"><img src="images/brand-logo/brand-logo-11.png" alt="clients" class="img-fluid"></div>-->
+<!--                  <p>Shutter, USA</p>-->
+<!--                </li>-->
+<!--                <li class="col-lg-2 col-md-3 col-sm-4 col-4" data-aos="fade-in" data-aos-delay="300">-->
+<!--                  <div class="brand-logo"><img src="images/brand-logo/brand-logo-2.png" alt="clients"	class="img-fluid"></div>-->
+<!--                  <p>Hipster, USA</p>-->
+<!--                </li>-->
+<!--                <li class="col-lg-2 col-md-3 col-sm-4 col-4" data-aos="fade-in" data-aos-delay="500">-->
+<!--                  <div class="brand-logo"><img src="images/brand-logo/brand-logo-3.png" alt="clients"	class="img-fluid"></div>-->
+<!--                  <p>Happy, USA</p>-->
+<!--                </li>-->
+<!--                <li class="col-lg-2 col-md-3 col-sm-4 col-4" data-aos="fade-in" data-aos-delay="700">-->
+<!--                  <div class="brand-logo"><img src="images/brand-logo/brand-logo-4.png" alt="clients"	class="img-fluid"></div>-->
+<!--                  <p>Opera Tours, USA</p>-->
+<!--                </li>-->
+<!--                <li class="col-lg-2 col-md-3 col-sm-4 col-4" data-aos="fade-in" data-aos-delay="900">-->
+<!--                  <div class="brand-logo"><img src="images/brand-logo/brand-logo-5.png" alt="clients"	class="img-fluid"></div>-->
+<!--                  <p>Shutter, USA</p>-->
+<!--                </li>-->
+<!--                <li class="col-lg-2 col-md-3 col-sm-4 col-4" data-aos="fade-in" data-aos-delay="1100">-->
+<!--                  <div class="brand-logo"><img src="images/brand-logo/brand-logo-6.png" alt="clients"	class="img-fluid"></div>-->
+<!--                  <p>Hipster, USA</p>-->
+<!--                </li>-->
+<!--                <li class="col-lg-2 col-md-3 col-sm-4 col-4" data-aos="fade-in" data-aos-delay="1300">-->
+<!--                  <div class="brand-logo"><img src="images/brand-logo/brand-logo-7.png" alt="clients"	class="img-fluid"></div>-->
+<!--                  <p>Happy, USA</p>-->
+<!--                </li>-->
+<!--                <li class="col-lg-2 col-md-3 col-sm-4 col-4" data-aos="fade-in" data-aos-delay="1500">-->
+<!--                  <div class="brand-logo"><img src="images/brand-logo/brand-logo-8.png" alt="clients"	class="img-fluid"></div>-->
+<!--                  <p>Opera Tours, USA</p>-->
+<!--                </li>-->
+<!--                <li class="col-lg-2 col-md-3 col-sm-4 col-4" data-aos="fade-in" data-aos-delay="1700">-->
+<!--                  <div class="brand-logo"><img src="images/brand-logo/brand-logo-9.png" alt="clients"	class="img-fluid"></div>-->
+<!--                  <p>Opera Tours, USA</p>-->
+<!--                </li>-->
+<!--                <li class="col-lg-2 col-md-3 col-sm-4 col-4" data-aos="fade-in" data-aos-delay="1900">-->
+<!--                  <div class="brand-logo"><img src="images/brand-logo/brand-logo-10.png" alt="clients" class="img-fluid"></div>-->
+<!--                  <p>Opera Tours, USA</p>-->
+<!--                </li>-->
+<!--                <li class="col-lg-2 col-md-3 col-sm-4 col-4" data-aos="fade-in" data-aos-delay="2100">-->
+<!--                  <div class="brand-logo"><img src="images/brand-logo/brand-logo-11.png" alt="clients" class="img-fluid"></div>-->
+<!--                  <p>Opera Tours, USA</p>-->
+<!--                </li>-->
+<!--                <li class="col-lg-2 col-md-3 col-sm-4 col-4" data-aos="fade-in" data-aos-delay="2300">-->
+<!--                  <div class="brand-logo"><img src="images/brand-logo/brand-logo-12.png" alt="clients" class="img-fluid"></div>-->
+<!--                  <p>Opera Tours, USA</p>-->
+<!--                </li>-->
+<!--              </ul>-->
+<!--            </div>-->
+<!--          </div>-->
+<!--        </div>-->
+<!--      </div>-->
+<!--    </section>-->
     <!--end partners-->
     <!--start blogs  -->
     <section class="half-bg-ree sec-pad">
@@ -881,11 +901,11 @@
                 </div>
               </div>
               <div class="live-review- mt60">
-                <span>Read Our Customers Feedback</span>
+                <span></span>
                 <div class="livrve">
-                  <a href="#"><img src="images/icons/google-logo.svg" alt="review"> </a>
-                  <a href="#"><img src="images/icons/hubspot-logo.svg" alt="review"> </a>
-                  <a href="#"><img src="images/icons/trustpilot-logo.svg" alt="review"> </a>
+<!--                  <a href="#"><img src="images/icons/google-logo.svg" alt="review"> </a>-->
+<!--                  <a href="#"><img src="images/icons/hubspot-logo.svg" alt="review"> </a>-->
+<!--                  <a href="#"><img src="images/icons/trustpilot-logo.svg" alt="review"> </a>-->
                 </div>
               </div>
             </div>
@@ -950,7 +970,7 @@
     <!-- start locations -->
     <div class="location-home sec-pad">
       <div class="container">
-        <div class="row justify-content-center">
+        <div class="row left-content-center">
           <div class="col-lg-4">
             <div class="location-block- mt60">
               <div class="loc-icon-nam">
@@ -966,36 +986,36 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-4">
-            <div class="location-block- mt60">
-              <div class="loc-icon-nam">
-                <img src="images/icons/burj-al-arab.svg" alt="burj-al-arab">
-                <p><span class="ree-text rt40">Dubai</span></p>
-              </div>
-              <p class="pt20 pb20">Tom Extension, 1st Block 2nd Cross, Yello round circle, Jaipur, Rajasthan 123456</p>
-              <div class="loc-contct">
-                <a href="javascript:void(0)" target="blank" class="btn-outline rount-btn" data-toggle="tooltip" title="Map Location"><i class="fas fa-map-marker-alt"></i></a>
-                <a href="javascript:void(0)" target="blank" class="btn-outline rount-btn" data-toggle="tooltip" title="Phone Number"><i class="fas fa-phone-alt"></i></a>
-                <a href="javascript:void(0)" target="blank" class="btn-outline rount-btn" data-toggle="tooltip" title="Email Address"><i class="fas fa-envelope"></i></a>
-                <a href="javascript:void(0)" target="blank" class="btn-outline rount-btn" data-toggle="tooltip" title="Skype Id"><i class="fab fa-skype"></i></a>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-4">
-            <div class="location-block- mt60">
-              <div class="loc-icon-nam">
-                <img src="images/icons/big-ben.svg" alt="big-ben">
-                <p><span class="ree-text rt40">UK</span></p>
-              </div>
-              <p class="pt20 pb20">Tom Extension, 1st Block 2nd Cross, Yello round circle, Jaipur, Rajasthan 123456</p>
-              <div class="loc-contct">
-                <a href="javascript:void(0)" target="blank" class="btn-outline rount-btn" data-toggle="tooltip" title="Map Location"><i class="fas fa-map-marker-alt"></i></a>
-                <a href="javascript:void(0)" target="blank" class="btn-outline rount-btn" data-toggle="tooltip" title="Phone Number"><i class="fas fa-phone-alt"></i></a>
-                <a href="javascript:void(0)" target="blank" class="btn-outline rount-btn" data-toggle="tooltip" title="Email Address"><i class="fas fa-envelope"></i></a>
-                <a href="javascript:void(0)" target="blank" class="btn-outline rount-btn" data-toggle="tooltip" title="Skype Id"><i class="fab fa-skype"></i></a>
-              </div>
-            </div>
-          </div>
+<!--          <div class="col-lg-4">-->
+<!--            <div class="location-block- mt60">-->
+<!--              <div class="loc-icon-nam">-->
+<!--                <img src="images/icons/burj-al-arab.svg" alt="burj-al-arab">-->
+<!--                <p><span class="ree-text rt40">Dubai</span></p>-->
+<!--              </div>-->
+<!--              <p class="pt20 pb20">Tom Extension, 1st Block 2nd Cross, Yello round circle, Jaipur, Rajasthan 123456</p>-->
+<!--              <div class="loc-contct">-->
+<!--                <a href="javascript:void(0)" target="blank" class="btn-outline rount-btn" data-toggle="tooltip" title="Map Location"><i class="fas fa-map-marker-alt"></i></a>-->
+<!--                <a href="javascript:void(0)" target="blank" class="btn-outline rount-btn" data-toggle="tooltip" title="Phone Number"><i class="fas fa-phone-alt"></i></a>-->
+<!--                <a href="javascript:void(0)" target="blank" class="btn-outline rount-btn" data-toggle="tooltip" title="Email Address"><i class="fas fa-envelope"></i></a>-->
+<!--                <a href="javascript:void(0)" target="blank" class="btn-outline rount-btn" data-toggle="tooltip" title="Skype Id"><i class="fab fa-skype"></i></a>-->
+<!--              </div>-->
+<!--            </div>-->
+<!--          </div>-->
+<!--          <div class="col-lg-4">-->
+<!--            <div class="location-block- mt60">-->
+<!--              <div class="loc-icon-nam">-->
+<!--                <img src="images/icons/big-ben.svg" alt="big-ben">-->
+<!--                <p><span class="ree-text rt40">UK</span></p>-->
+<!--              </div>-->
+<!--              <p class="pt20 pb20">Tom Extension, 1st Block 2nd Cross, Yello round circle, Jaipur, Rajasthan 123456</p>-->
+<!--              <div class="loc-contct">-->
+<!--                <a href="javascript:void(0)" target="blank" class="btn-outline rount-btn" data-toggle="tooltip" title="Map Location"><i class="fas fa-map-marker-alt"></i></a>-->
+<!--                <a href="javascript:void(0)" target="blank" class="btn-outline rount-btn" data-toggle="tooltip" title="Phone Number"><i class="fas fa-phone-alt"></i></a>-->
+<!--                <a href="javascript:void(0)" target="blank" class="btn-outline rount-btn" data-toggle="tooltip" title="Email Address"><i class="fas fa-envelope"></i></a>-->
+<!--                <a href="javascript:void(0)" target="blank" class="btn-outline rount-btn" data-toggle="tooltip" title="Skype Id"><i class="fab fa-skype"></i></a>-->
+<!--              </div>-->
+<!--            </div>-->
+<!--          </div>-->
         </div>
       </div>
     </div>

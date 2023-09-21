@@ -842,8 +842,8 @@ margin: 10px 0 0 0;
 .form-block p.trm i {padding: 5px 5px 0 0; }
 .form-body{padding: 0px 40px 40px 40px;}
 .form-head{ padding: 40px 40px;}
-.fourc-up-a{margin: -150px 0 0 0;}
-.fourc-up-b{margin: -150px 0 0 0}
+.fourc-up-a{margin: 0px 0 0 0;}
+.fourc-up-b{margin: -0px 0 0 0}
 .form-block{
     border-radius: 14px;
     overflow: hidden;
