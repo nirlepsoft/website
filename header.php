@@ -40,7 +40,7 @@
             <div class="ree-nav" role="navigation">
                 <ul class="nav-list">
                     <li class="megamenu">
-                        <a href="index.php" class="menu-links">Home</a>
+                        <a href="./" class="menu-links">Home</a>
                     </li>
                     <li class="megamenu">
                         <a href="about.php" class="menu-links">About Us</a>
@@ -49,19 +49,19 @@
                         <a href="services.php" class="menu-links">Services</a>
                     </li>
                     <li class="megamenu mega-small">
-                        <a href="#"  class="menu-links">Portfolio</a>
+                        <a href="portfolio.php"  class="menu-links">Portfolio</a>
                     </li>
 <!--                    <li class="megamenu mega-small">-->
 <!--                        <a href="#"  class="menu-links">Blogs</a>-->
 <!--                    </li>-->
                     <li class="megamenu mega-small">
-                        <a href="#"  class="menu-links">Contact Us</a>
+                        <a href="contact-us.php"  class="menu-links">Contact Us</a>
                     </li>
                 </ul>
             </div>
             <div class="ree-nav-cta">
                 <ul>
-                    <li><a href="get-quote.html" class="ree-btn ree-btn0 ree-btn-grdt2"> Request Quote</a> </li>
+                    <li><a href="contact-us.php" class="ree-btn ree-btn0 ree-btn-grdt2"> Request Quote</a> </li>
                 </ul>
             </div>
             <div class="mobile-menu2">
