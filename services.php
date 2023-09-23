@@ -1,12 +1,12 @@
 <?php include('header.php'); ?>
-	<section class="page-heading-sec serv-page-head r-bg-a pt85 pb120">	
+	<section class="page-heading-sec serv-page-head r-bg-a pt85 pb120">
 		<div class="container">
 			<div class="row pt80 justify-content-center">
 				<div class="col-lg-9">
 					<div class="page-headings service-page">
 						<span class="sub-heading mb15" data-aos="fade-in" data-aos-delay="200">Our Services</span>
-						<h1 data-aos="fade-in" data-aos-delay="400"><span class="ree-text rt45" >Reevan</span>, A web development agency in India where experience meets innovation.</h1>
-						<p class="mt30 h-light" data-aos="fade-in" data-aos-delay="600">We are a team of top talent delivering enterprise solutions globally. we evolve with the advancement in technology because we believe in making our technology as your innovation.</p>
+						<h1 data-aos="fade-in" data-aos-delay="400"><span class="ree-text rt45" >ABC</span>, Where Experience and Innovation Converge.</h1>
+						<p class="mt30 h-light" data-aos="fade-in" data-aos-delay="600">Nurturing an ambitious young IT company, we relentlessly pursue success while prioritizing the highest quality in every product we create.</p>
 					</div>
 					</div>
 					</div>
@@ -19,7 +19,7 @@
 									<img src="images/icons/cellphone.svg" alt="web" class="w-100">
 								</div>
 								<div class="ree-details-set">
-									<div class="countrr"><span>750</span> <span>+</span> </div>
+									<div class="countrr"><span>5</span> <span>+</span> </div>
 									<p>Mobile Apps Developed</p>
 								</div>
 							</div>
@@ -30,7 +30,7 @@
 									<img src="images/icons/world-wide-web.svg" alt="web" class="w-100">
 								</div>
 								<div class="ree-details-set">
-									<div class="countrr"><span>3500</span> <span>+</span> </div>
+									<div class="countrr"><span>10</span> <span>+</span> </div>
 									<p>Web site Developed</p>
 								</div>
 							</div>
@@ -41,7 +41,7 @@
 									<img src="images/icons/cart-click.svg" alt="web" class="w-100">
 								</div>
 								<div class="ree-details-set">
-									<div class="countrr"><span>200</span> <span>+</span> </div>
+									<div class="countrr"><span>2</span> <span>+</span> </div>
 									<p>eCommerce Store Develop</p>
 								</div>
 							</div>
@@ -68,28 +68,28 @@
 						<div class="services-blocks-set mt30">
 							<div class="servic-block-a">
 								<img src="images/icons/web.svg" alt="service" class="icon70 mb20">
-								<a href="service-details.html" class="link-serv"><i class="fas fa-arrow-right"></i></a>
+								<!-- <a href="service-details.html" class="link-serv"><i class="fas fa-arrow-right"></i></a> -->
 								<h4 class="mb15"><a href="service-details.html"> Websites Design </a></h4>
-								<p>We create comprehensive and sophisticated yet simple to use interfaces for your web app.</p>
+								<p>We specialize in crafting intuitive and elegant web interfaces that enhance user experiences for your online platform.</p>
 							</div>
 							<div class="servic-block-a">
 								<img src="images/icons/mobile-app.svg" alt="service" class="icon70 mb20">
-								<a href="service-details.html" class="link-serv"><i class="fas fa-arrow-right"></i></a>
+								<!-- <a href="service-details.html" class="link-serv"><i class="fas fa-arrow-right"></i></a> -->
 								<h4 class="mb15"><a href="service-details.html">Mobile Apps Design</a></h4>
-								<p>We create comprehensive and sophisticated yet simple to use interfaces for your web app.</p>
+								<p>Celebrate flawless user experiences with our expertise in crafting intuitive and elegant mobile app interfaces for your digital solutions</p>
 							</div>
 							<div class="servic-block-a">
 								<img src="images/icons/ui.svg" alt="service" class="icon70 mb20">
-								<a href="service-details.html" class="link-serv"><i class="fas fa-arrow-right"></i></a>
+								<!-- <a href="service-details.html" class="link-serv"><i class="fas fa-arrow-right"></i></a> -->
 								<h4 class="mb15"><a href="service-details.html">UX/UI Design</a></h4>
-								<p>We create comprehensive and sophisticated yet simple to use interfaces for your web app.</p>
+								<p>Elevate user satisfaction with our mastery in sculpting seamless and captivating UI/UX designs for your digital ventures.</p>
 							</div>
-							<div class="servic-block-a">
+							<!-- <div class="servic-block-a">
 								<img src="images/icons/design-tools.svg" alt="service" class="icon70 mb20">
 								<a href="service-details.html" class="link-serv"><i class="fas fa-arrow-right"></i></a>
 								<h4 class="mb15"><a href="service-details.html">Branding</a></h4>
 								<p>We create comprehensive and sophisticated yet simple to use interfaces for your web app.</p>
-							</div>
+							</div> -->
 						</div>
 					</div>
 				</div>
@@ -104,7 +104,7 @@
 			<div class="row">
 				<div class="col-lg-4">
 					<div class="page-headings m-center">
-						<h3>We make the collaboration of people and interface more intensive and exciting.</h3>
+						<h3>We enhance the connection between people and technology, making interactions more exciting and engaging.</h3>
 						<a href="get-quote.html" class="ree-btn  ree-btn-grdt2 mt40">Need a Developer <i class="fas fa-arrow-right fa-btn"></i></a>
 					</div>
 				</div>
@@ -114,27 +114,27 @@
 						<div class="services-blocks-set mt30">
 							<div class="servic-block-a">
 								<img src="images/icons/appcode.svg" alt="service" class="icon70 mb20">
-								<a href="service-details.html" class="link-serv"><i class="fas fa-arrow-right"></i></a>
+								<!-- <a href="service-details.html" class="link-serv"><i class="fas fa-arrow-right"></i></a> -->
 								<h4 class="mb15"><a href="service-details.html">App Development</a></h4>
-								<p>We create comprehensive and sophisticated yet simple to use interfaces for your web app.</p>
+								<p>Let us help you turn your vision into reality with our expert app development skills, crafting intuitive and powerful digital solutions for your needs.</p>
 							</div>
 							<div class="servic-block-a">
 								<img src="images/icons/coding.svg" alt="service" class="icon70 mb20">
-								<a href="service-details.html" class="link-serv"><i class="fas fa-arrow-right"></i></a>
+								<!-- <a href="service-details.html" class="link-serv"><i class="fas fa-arrow-right"></i></a> -->
 								<h4 class="mb15"><a href="service-details.html">Web Development</a></h4>
-								<p>We create comprehensive and sophisticated yet simple to use interfaces for your web app.</p>
+								<p>As part of our services, we specialize in website development, transforming your online presence with stunning and effective digital platforms tailored to your goals.</p>
 							</div>
 							<div class="servic-block-a">
 								<img src="images/icons/buy-online.svg" alt="service" class="icon70 mb20">
-								<a href="service-details.html" class="link-serv"><i class="fas fa-arrow-right"></i></a>
+								<!-- <a href="service-details.html" class="link-serv"><i class="fas fa-arrow-right"></i></a> -->
 								<h4 class="mb15"><a href="service-details.html">eCommerce Development</a></h4>
-								<p>We create comprehensive and sophisticated yet simple to use interfaces for your web app.</p>
+								<p>We excel in ecommerce development, crafting dynamic online storefronts that elevate your business and streamline the customer shopping experience.</p>
 							</div>
 							<div class="servic-block-a">
 								<img src="images/icons/servers.svg" alt="service" class="icon70 mb20">
-								<a href="service-details.html" class="link-serv"><i class="fas fa-arrow-right"></i></a>
+								<!-- <a href="service-details.html" class="link-serv"><i class="fas fa-arrow-right"></i></a> -->
 								<h4 class="mb15"><a href="service-details.html">Cloud Development</a></h4>
-								<p>We create comprehensive and sophisticated yet simple to use interfaces for your web app.</p>
+								<p>We specialize in cloud development, harnessing the power of cloud technologies to optimize your business operations and drive digital transformation.</p>
 							</div>
 						</div>
 					</div>
@@ -145,7 +145,7 @@
 	<!--Development service end-->
 
 	<!--Marketing service-->
-	<section class="r-bg-x  sec-pad">
+	<!-- <section class="r-bg-x  sec-pad">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-4">
@@ -187,7 +187,7 @@
 				</div>
 			</div>
 		</div>
-	</section>
+	</section> -->
 	<!--Marketing service end-->
 
 
@@ -211,7 +211,7 @@
 								<img src="images/icons/pencil.svg" alt="service" class="icon70 mb20">
 							</div>
 							<h4>Requirement Gathering</h4>
-							<p>Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. </p>
+							<p>The process begins with gathering detailed requirements from stakeholders, including end-users, to understand their needs and expectations. </p>
 						</div>
 					</div>
 				</div>
@@ -223,7 +223,7 @@
 								<img src="images/icons/creativity.svg" alt="service" class="icon70 mb20">
 							</div>
 							<h4>Design</h4>
-							<p>Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. </p>
+							<p>During this stage, the software architecture is planned, and the system's overall design is created. This includes defining data structures, algorithms, and user interface design.</p>
 						</div>
 					</div>
 				</div>
@@ -235,7 +235,7 @@
 								<img src="images/icons/prototype.svg" alt="service" class="icon70 mb20">
 							</div>
 							<h4>Prototype</h4>
-							<p>Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. </p>
+							<p>Prototypes or mockups may be developed to give stakeholders a visual representation of the final product and gather feedback for improvements.</p>
 						</div>
 					</div>
 				</div>
@@ -247,7 +247,7 @@
 								<img src="images/icons/computer.svg" alt="service" class="icon70 mb20">
 							</div>
 							<h4>Development</h4>
-							<p>Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. </p>
+							<p>Actual coding and programming take place in this phase. Developers write, test, and integrate code components, following the design specifications.</p>
 						</div>
 					</div>
 				</div>
@@ -259,7 +259,7 @@
 								<img src="images/icons/quality-check.svg" alt="service" class="icon70 mb20">
 							</div>
 							<h4>Quality Assurance</h4>
-							<p>Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. </p>
+							<p>Dedicated QA teams conduct testing to identify and rectify defects, ensuring the software functions correctly and meets quality standards.</p>
 						</div>
 					</div>
 				</div>
@@ -272,7 +272,7 @@
 								<img src="images/icons/start-up.svg" alt="service" class="icon70 mb20">
 							</div>
 							<h4>Deployment</h4>
-							<p>Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. </p>
+							<p>The software is deployed to production environments, making it accessible to end-users. This step may involve gradual rollouts or updates.</p>
 						</div>
 					</div>
 				</div>
@@ -285,7 +285,7 @@
 								<img src="images/icons/customer-support.svg" alt="service" class="icon70 mb20">
 							</div>
 							<h4>Support & Maintenance</h4>
-							<p>Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi.</p>
+							<p>Ongoing technical support and maintenance are provided to address user concerns, fix bugs, and implement updates or enhancements.</p>
 						</div>
 					</div>
 				</div>
@@ -302,7 +302,7 @@
 				<div class="col-lg-8">
 					<div class="page-headings text-center">
 						<h2 class="mb15">Industries We Serve</h2>
-						<p>Our design process follows a proven approach. We begin with a deep understanding of your needs and create a planning template. </p>
+						<p>From curing code bugs to leveling up user experiences, we're your tech partner across many industries such as healthcare, gaming, travel, and education more exciting one line of code at a time." </p>
 					</div>
 				</div>
 			</div>

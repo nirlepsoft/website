@@ -137,10 +137,10 @@
                             Whether you need an iOS or Android app, we have the experience and knowledge to turn your
                             ideas into high-quality, user-friendly applications.</p>
                     </div>
-                    <div class="ree-card-content-link">
+                    <!-- <div class="ree-card-content-link">
                         <a href="service-details.html" class="ree-card-link mt40">Read More <i
                                     class="fas fa-arrow-right fa-btn"></i> </a>
-                    </div>
+                    </div> -->
                 </div>
             </div>
             <div class="col-lg-4 col-sm-6" data-aos="fade-up" data-aos-delay="300">
@@ -152,11 +152,11 @@
                             websites that boost your business. Our dedication to enhancing UI/UX ensures a superior user
                             experience and improved conversion rates.</p>
                     </div>
-                    <div class="ree-card-content-link">
+                    <!-- <div class="ree-card-content-link">
                         <a href="service-details.html" class="ree-card-link mt40">Read More <i
                                     class="fas fa-arrow-right fa-btn"></i>
                         </a>
-                    </div>
+                    </div> -->
                 </div>
             </div>
             <div class="col-lg-4 col-sm-6" data-aos="fade-up" data-aos-delay="500">
@@ -168,11 +168,11 @@
                             stores to improving user journeys, payment gateways, and security. Let us elevate your
                             digital business presence.</p>
                     </div>
-                    <div class="ree-card-content-link">
+                    <!-- <div class="ree-card-content-link">
                         <a href="service-details.html" class="ree-card-link mt40">Read More <i
                                     class="fas fa-arrow-right fa-btn"></i>
                         </a>
-                    </div>
+                    </div> -->
                 </div>
             </div>
             <div class="col-lg-4 col-sm-6" data-aos="fade-up" data-aos-delay="700">
@@ -184,11 +184,11 @@
                             online visibility and drive conversions. Allow us to enhance your brand's digital footprint
                             and unlock growth opportunities</p>
                     </div>
-                    <div class="ree-card-content-link">
+                    <!-- <div class="ree-card-content-link">
                         <a href="service-details.html" class="ree-card-link mt40">Read More <i
                                     class="fas fa-arrow-right fa-btn"></i>
                         </a>
-                    </div>
+                    </div> -->
                 </div>
             </div>
             <div class="col-lg-4 col-sm-6" data-aos="fade-up" data-aos-delay="900">
@@ -201,11 +201,11 @@
                             and functionality. Let us help you create products that stand out in today's competitive
                             market.</p>
                     </div>
-                    <div class="ree-card-content-link">
+                    <!-- <div class="ree-card-content-link">
                         <a href="service-details.html" class="ree-card-link mt40">Read More <i
                                     class="fas fa-arrow-right fa-btn"></i>
                         </a>
-                    </div>
+                    </div> -->
                 </div>
             </div>
             <div class="col-lg-4 col-sm-6" data-aos="fade-up" data-aos-delay="1100">
@@ -217,11 +217,11 @@
                             migration, optimization, or leveraging AWS's extensive ecosystem, we have the expertise to
                             help your business thrive in the cloud era.</p>
                     </div>
-                    <div class="ree-card-content-link">
+                    <!-- <div class="ree-card-content-link">
                         <a href="service-details.html" class="ree-card-link mt40">Read More <i
                                     class="fas fa-arrow-right fa-btn"></i>
                         </a>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
@@ -250,7 +250,7 @@
             </div>
             <div class="col-lg-6 col-sm-4 vcenter">
                 <div class="link-sol-header">
-                    <a href="portfolio.html" class="ree-card-link">View All <i
+                    <a href="portfolio.php" class="ree-card-link">View All <i
                                 class="fas fa-arrow-right fa-btn"></i></a>
                 </div>
             </div>
@@ -311,7 +311,7 @@
             <div class="col-lg-8">
                 <div class="sec-heading text-center pera-block">
                     <h2><span class="ree-text rt40">Technologies</span> we work with</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.</p>
+                    <p>we work with a wide range of technologies, including programming languages like Python, Java, and JavaScript, cloud computing platforms such as AWS and Azure, database management systems like MySQL and MongoDB, and frameworks like React and Angular to develop cutting-edge software solutions for our clients.</p>
                 </div>
             </div>
         </div>
