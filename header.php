@@ -1,3 +1,10 @@
+<?php
+$fileName = basename($_SERVER['REQUEST_URI'], '?' . $_SERVER['QUERY_STRING']);
+$headerClass = '';
+if($fileName == 'contact-us.php') {
+    $headerClass = 'header-dark';
+}
+?>
 <!DOCTYPE html>
 <html lang="zxx" class="no-js">
 <head>
@@ -31,7 +38,8 @@
 </div>
 <!--End Preloader -->
 <!--Start Header-->
-<header class="ree-header fixed-top">
+
+<header class="<?php echo $headerClass;?> ree-header fixed-top">
     <div class="container-fluid m-p-l-r-0">
         <div class="menu-header">
             <div class="menu-logo">
