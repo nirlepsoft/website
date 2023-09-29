@@ -9,8 +9,8 @@ if($fileName == 'contact-us.php') {
 <html lang="zxx" class="no-js">
 <head>
     <meta charset="utf-8" />
-    <title>Reevan Web Design &amp; Digital Marketing Agency HTML Template</title>
-    <meta name="description" content="Creative Agency, Marketing Agency Template">
+    <title>Byte Weavers Web Design and Development Agency</title>
+    <meta name="description" content="Creative Agency, Marketing Agency">
     <meta name="keywords" content="Creative Agency, Marketing Agency">
     <meta name="author" content="rajesh-doot">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -39,7 +39,7 @@ if($fileName == 'contact-us.php') {
 <!--End Preloader -->
 <!--Start Header-->
 
-<header class="<?php echo $headerClass;?> ree-header fixed-top">
+<header class="ree-header fixed-top">
     <div class="container-fluid m-p-l-r-0">
         <div class="menu-header">
             <div class="menu-logo">
