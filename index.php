@@ -230,7 +230,7 @@
                 <div class="col-lg-10 vcenter">
                     <div class="cta-heading-wide-bt">
                         <h3>Hire World-Class <span class="ree-text rt40">Developers</span></h3>
-                        <a href="get-quote.html" class="ree-btn  ree-btn-grdt1 mw-80">Hire Now <i
+                        <a href="contact-us.php" class="ree-btn  ree-btn-grdt1 mw-80">Hire Now <i
                                     class="fas fa-arrow-right fa-btn"></i></a>
                     </div>
                 </div>
@@ -728,7 +728,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="tab-pane fade" id="tab6" role="tabpanel" aria-labelledby="tab6c">
+                        <div class="tab-pane fade active show" id="tab6" role="tabpanel" aria-labelledby="tab6c">
                             <div class="tab-data-cont">
                                 <div class="row justify-content-center">
                                     <div class="col-lg-2 col-md-3 col-sm-4 col-6">
