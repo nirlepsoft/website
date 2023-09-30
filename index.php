@@ -69,7 +69,7 @@ if (isset($_REQUEST['submit'])){
             <div class="col-lg-6 vcenter">
                 <div class="hero-content-a">
                     <h1 class="h1 mb30" data-aos="fade-in" data-aos-delay="200"><span
-                                class="ree-text rt60">Elevate</span> Your Projects with ABC ^</h1>
+                                class="ree-text rt60">Elevate</span> Your Projects with Byte Weavers</h1>
                     <p data-aos="fade-in" data-aos-delay="500">Boost your digital presence with a Company led by
                         engineers with 15+ years of expertise. Let us help you transform your business.
                     </p>
@@ -112,9 +112,9 @@ if (isset($_REQUEST['submit'])){
         <div class="row">
             <div class="col-lg-6">
                 <div class="about-content-home m-mb60 pera-block">
-                    <span class="sub-heading mb15">We Are ABC</span>
+                    <span class="sub-heading mb15">We Are Byte Weavers</span>
                     <h2><span class="ree-text rt40">An experienced</span> Web And Mobile App Development Company</h2>
-                    <p style="margin-bottom: 30px;">ABC specialize in Web Design, App Development, Testing Automation,
+                    <p style="margin-bottom: 30px;">We specialize in Web Design, App Development, Testing Automation,
                         AWS Solutions, Architecture Design, and Building Microservices. Harness our expertise for
                         transformative IT solutions. So, what are you waiting
                         for? Let us discuss your ideas and our innovation in detail because catering your requirement
@@ -1157,11 +1157,11 @@ if (isset($_REQUEST['submit'])){
                     </div>
                     <div class="contact-infos mt35">
                         <div class="c-infot">
-                            <span>Sales Department</span> <a href="mailto:reevan@abc.com"><i
+                            <span>Sales Department</span> <a href="mailto:sales@byteweavers.com"><i
                                         class="fas fa-envelope"></i> reevan@abc.com</a>
                         </div>
                         <div class="c-infot">
-                            <span>Connect on Skype</span> <a href="skype:reevan.company"><i class="fab fa-skype"></i>
+                            <span>Connect on Skype</span> <a href=""><i class="fab fa-skype"></i>
                                 reevan.company</a>
                         </div>
                     </div>
