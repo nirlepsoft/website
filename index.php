@@ -1031,46 +1031,40 @@
         <div class="row mt30">
             <div class="col-lg-4 mt30" data-aos="fade-up" data-aos-delay="200">
                 <div class="half-blog-card">
-                    <div class="half-blog-img"><a href="blog-details.html"><img src="images/blogs/blog-img-1.jpg"
+                    <div class="half-blog-img"><a href="developing-real-time-applications-with-laravel-and-websockets-a-comprehensive-guide.php"><img src="images/blogs/Developing-Real-Time-Applications-with-Laravel-and-WebSockets-A-Comprehensive-Guide.jpeg"
                                                                                 alt="blogs" class="img-fluid"> </a>
                     </div>
                     <div class="half-blog-content">
-                        <div class="blog-quick-inf mb20"><span><i class="far fa-calendar-alt"></i> 12 March 21</span>
-                            <span><i class="fas fa-clock"></i> 5 Min Read</span></div>
-                        <h4 class="mb15"><a href="blog-details.html">Best Technology for Mobile Application
-                                Development</a></h4>
-                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget
-                            dolor.</p>
+                        <div class="blog-quick-inf mb20"><span><i class="far fa-calendar-alt"></i> 12 September 23</span>
+                            <span><i class="fas fa-clock"></i> 10 Min Read</span></div>
+                        <h4 class="mb15"><a href="developing-real-time-applications-with-laravel-and-websockets-a-comprehensive-guide.php">Developing Real-Time Applications with Laravel and WebSockets: A Comprehensive Guide</a></h4>
+                        <p>Real-time applications are crucial in today's digital age, offering immediate interactions and updates. Laravel and ...</p>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 mt30" data-aos="fade-up" data-aos-delay="500">
                 <div class="half-blog-card">
-                    <div class="half-blog-img"><a href="blog-details.html"><img src="images/blogs/blog-img-1a.jpg"
+                    <div class="half-blog-img"><a href="laravel-framework-for-result-oriented-web-development.php"><img src="images/blogs/laravel-framwork-banner-img.jpg"
                                                                                 alt="blogs" class="img-fluid"> </a>
                     </div>
                     <div class="half-blog-content">
-                        <div class="blog-quick-inf mb20"><span><i class="far fa-calendar-alt"></i> 12 March 21</span>
-                            <span><i class="fas fa-clock"></i> 5 Min Read</span></div>
-                        <h4 class="mb15"><a href="blog-details.html">Exploring the Key Features of Laravel 7
-                                Framework</a></h4>
-                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget
-                            dolor.</p>
+                        <div class="blog-quick-inf mb20"><span><i class="far fa-calendar-alt"></i> 14 September 23</span>
+                            <span><i class="fas fa-clock"></i> 8 Min Read</span></div>
+                        <h4 class="mb15"><a href="laravel-framework-for-result-oriented-web-development.php">Why Select Laravel Framework for Result-Oriented Web Development</a></h4>
+                        <p>The software development domains are turning more integral to nearly every industry. Selecting a precise web development framework to craft superior performing...</p>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 mt30" data-aos="fade-up" data-aos-delay="800">
                 <div class="half-blog-card">
-                    <div class="half-blog-img"><a href="blog-details.html"><img src="images/blogs/blog-img-1b.jpg"
+                    <div class="half-blog-img"><a href="creating-user-friendly-web.php"><img src="images/blogs/creative-user-friendly-banner.jpg"
                                                                                 alt="blogs" class="img-fluid"> </a>
                     </div>
                     <div class="half-blog-content">
-                        <div class="blog-quick-inf mb20"><span><i class="far fa-calendar-alt"></i> 12 March 21</span>
-                            <span><i class="fas fa-clock"></i> 5 Min Read</span></div>
-                        <h4 class="mb15"><a href="blog-details.html">Best Technology for Mobile Application
-                                Development</a></h4>
-                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget
-                            dolor.</p>
+                        <div class="blog-quick-inf mb20"><span><i class="far fa-calendar-alt"></i> 20 September 23</span>
+                            <span><i class="fas fa-clock"></i> 10 Min Read</span></div>
+                        <h4 class="mb15"><a href="creating-user-friendly-web.php">How to Make the Web a Better Place for Everyone: Design, Accessibility, and More</a></h4>
+                        <p>n today’s interconnected world, the web plays a vital role in our daily lives. It serves as a gateway to information, communication, and opportunities ...</p>
                     </div>
                 </div>
             </div>

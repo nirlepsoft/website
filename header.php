@@ -59,9 +59,9 @@ if($fileName == 'contact-us.php') {
                     <li class="megamenu mega-small">
                         <a href="portfolio.php"  class="menu-links">Portfolio</a>
                     </li>
-<!--                    <li class="megamenu mega-small">-->
-<!--                        <a href="#"  class="menu-links">Blogs</a>-->
-<!--                    </li>-->
+                    <li class="megamenu mega-small">
+                        <a href="blogs.php"  class="menu-links">Blogs</a>
+                    </li>
                     <li class="megamenu mega-small">
                         <a href="contact-us.php"  class="menu-links">Contact Us</a>
                     </li>

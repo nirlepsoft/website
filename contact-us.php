@@ -1,4 +1,67 @@
 <?php include('header.php'); ?>
+<?php
+use PHPMailer\PHPMailer\PHPMailer;
+    if (isset($_REQUEST['submit'])){
+
+        include('PHPMailer.php');
+        include ('SMTP.php');
+
+        $mail = new PHPMailer(true);
+
+        $message = " <p>Please find below details for inquiry</p>
+                    <table>
+                    <tr>
+                    <td>Name:</td>
+                    <td>".$_REQUEST['name']."</td>
+                    </tr>
+                    <tr>
+                    <td>Email Address:</td>
+                    <td>".$_REQUEST['email']."</td>
+                    </tr>
+                    <tr>
+                    <td>contact no:</td>
+                    <td>".$_REQUEST['phone']."</td>
+                    </tr>
+                    <tr>
+                    <td>Skype:</td>
+                    <td>".$_REQUEST['skype']."</td>
+                    </tr>
+                    <tr>
+                    <td>subject:</td>
+                    <td>".$_REQUEST['subject']."</td>
+                    </tr>
+                    <tr>
+                    <td>Interested In:</td>
+                    <td>".$_REQUEST['inquiryFor']."</td>
+                    </tr>
+                    <tr>
+                    <td>Message:</td>
+                    <td>".$_REQUEST['message']."</td>
+                    </tr>
+                    </table>                    
+                  
+";
+
+        $mail->SMTPDebug = 0;
+        $mail->isSMTP();
+        $mail->Host       = 'sandbox.smtp.mailtrap.io;';
+        $mail->SMTPAuth   = true;
+        $mail->Username   = '42c381f4dca016';
+        $mail->Password   = '307dfd15d309ac';
+        $mail->SMTPSecure = 'tls';
+        $mail->Port       = 587;
+
+        $mail->setFrom('nirlep.soft@gmail.com', 'Byte Weavers');
+        $mail->addAddress('nirlep.soft@gmail.com', 'chintan patel');
+
+        $mail->isHTML(true);
+        $mail->Subject = 'Inquiry from Byte Wavers contact Form';
+        $mail->Body    = $message;
+        //$mail->AltBody = 'Body in plain text for non-HTML mail clients';
+        $mail->send();
+    }
+
+?>
 		<!--contact info-->
 		<div class="contact-head-sec r-bg-a pt85 pb120">
 			<div class="container">
@@ -128,29 +191,28 @@
 							<div class="form-block bg-w">
 								<div class="form-head"><h4>Please fill in the form below or mail us your requirements :)</h4></div>
 								<div class="form-body">
-									<form action="#" method="post" name="feedback-form">
+									<form action="contact-us.php" method="post" name="feedback-form">
 										<div class="fieldsets row">
-											<div class="col-md-6"><input type="text" placeholder="Full Name" name="name"></div>
-											<div class="col-md-6"><input type="email" placeholder="Email Address" name="email"></div>
+											<div class="col-md-6"><input type="text" placeholder="Full Name" name="name" required></div>
+											<div class="col-md-6"><input type="email" placeholder="Email Address" name="email" required></div>
 										</div>
 										<div class="fieldsets row">
-											<div class="col-md-6"><input type="number" placeholder="Contact Number" name="phone"></div>
-											<div class="col-md-6"><input type="text" placeholder="Skype" name="skype"></div>
+											<div class="col-md-6"><input type="number" placeholder="Contact Number" name="phone" required></div>
+											<div class="col-md-6"><input type="text" placeholder="Skype" name="skype" required></div>
 										</div>
 										<div class="fieldsets row">
 											
-											<div class="col-md-6"><input type="text" placeholder="Subject" name="subject"></div>
-											<div class="col-md-6"><select>
-												<option>interested in</option>
-												<option>Web Design</option>
-												<option>Graphic Design</option>
-												<option>App Development</option>
-												<option>Digital Marketing</option>
-												<option>Business Development</option>
-												<option>Other...</option>
+											<div class="col-md-6"><input type="text" placeholder="Subject" name="subject" required></div>
+											<div class="col-md-6"><select name="inquiryFor" required>
+												<option value="">interested in</option>
+												<option value="Web Design">Web Design</option>
+												<option value="Graphic Design">Graphic Design</option>
+												<option value="App Development">App Development</option>
+												<option value="Website Development">Website Development</option>
+												<option value="other">Others</option>
 											</select></div>
 										</div>
-										<div class="fieldsets"><textarea placeholder="Message" name="message"></textarea></div>
+										<div class="fieldsets"><textarea placeholder="Message" name="message" required></textarea></div>
 										<div class="custom-control custom-checkbox">
 											<input type="checkbox" class="custom-control-input" id="customCheck" name="example1" checked="checked">
 											<label class="custom-control-label label-f-form" for="customCheck">I agree to the <a href="javascript:void(0)">Terms &amp; Conditions</a> of Byte Weavers.</label>

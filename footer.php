@@ -70,7 +70,7 @@
                 </div>
                 <div class="col-lg-7">
                     <div class="ft-copyright ft-r">
-                        <p>© <?php echo date('Y');?> All Rights Reserved By </p>
+                        <p>© <?php echo date('Y');?> All Rights Reserved By Byte Weavers.</p>
                     </div>
                 </div>
             </div>
