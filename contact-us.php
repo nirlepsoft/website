@@ -156,14 +156,14 @@ use PHPMailer\PHPMailer\PHPMailer;
 						<div class="ree-card mt30 trust-review owl-carousel">
 							<div class="items">
 								<div class="review-text">
-									<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type.</p>
+									<p>What impressed me the most was their ability to project management and guidance. It's clear that they not only have the knowledge but also the passion to deliver results that exceed expectations. They go above and beyond to ensure their clients are not just happy but delighted.</p>
 								</div>
 								<div class="ree-row-set mt30">
 									<div class="media vcenter">
-										<div class="ree-icon-set img-round80"><img src="images/users/user4.jpg" alt="img" class="img-fluid"></div>
+<!--										<div class="ree-icon-set img-round80"><img src="images/users/user4.jpg" alt="img" class="img-fluid"></div>-->
 										<div class="ree-details-set user-info">
-											<h5>Lora Myka</h5>
-											<p>ABC Business, <small>Jaipur, Rajasthan</small></p>
+											<h5>Kane Williams</h5>
+<!--											<p>ABC Business, <small>Jaipur, Rajasthan</small></p>-->
 										</div>
 									</div>
 								</div>
@@ -171,14 +171,14 @@ use PHPMailer\PHPMailer\PHPMailer;
 
 							<div class="items">
 								<div class="review-text">
-									<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type.</p>
+									<p>The Goodwill Choice Website and Application has exceeded all our expectations. Communication & correspondence has been great, clarifying & addressing issues was absolutely prompt with team. My experience with Byte Weavers has been great, I personally thank the development team and look forward to continuing our association in future.</p>
 								</div>
 								<div class="ree-row-set mt30">
 									<div class="media vcenter">
-										<div class="ree-icon-set img-round80"><img src="images/users/user4.jpg" alt="img" class="img-fluid"></div>
+<!--										<div class="ree-icon-set img-round80"><img src="images/users/user4.jpg" alt="img" class="img-fluid"></div>-->
 										<div class="ree-details-set user-info">
-											<h5>Lora Myka</h5>
-											<p>ABC Business, <small>Jaipur, Rajasthan</small></p>
+											<h5>Suriya Chalee</h5>
+<!--											<p>ABC Business, <small>Jaipur, Rajasthan</small></p>-->
 										</div>
 									</div>
 								</div>

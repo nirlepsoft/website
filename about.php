@@ -297,7 +297,7 @@
 							<span class="sub-heading mb15">Career</span>
 							<h2><span class="ree-text rt40">Teamwork</span> is the ability to work together toward a common vision.</h2>
 
-							<a href="get-quote.html" class="ree-btn  ree-btn-grdt1 mt40 mw-80">Join Our Team <i	class="fas fa-arrow-right fa-btn"></i></a>
+							<a href="contact-us.php" class="ree-btn  ree-btn-grdt1 mt40 mw-80">Join Our Team <i	class="fas fa-arrow-right fa-btn"></i></a>
 						</div>
 					</div>
 					<div class="col-lg-6 vcenter">
