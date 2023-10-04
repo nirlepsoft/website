@@ -129,13 +129,13 @@ if (isset($_REQUEST['submit'])){
                     <div class="btn-sets">
                         <a href="about.php" class="ree-btn  ree-btn-grdt1 mw-80" style="margin-right: 10px;">About Us<i
                                     class="fas fa-arrow-right fa-btn"></i></a>
-                        <div class="vid-btntitl">
-                            <a href="https://www.youtube.com/watch?v=7e90gBu4pas?autoplay=1&amp;rel=0"
-                               class="ree-btn  ree-btn-grdt1 ree-btn-round video-popup"><i class="fas fa-play"></i></a>
-                            <div class="vide-btntitl vcenter">
-                                <p>Watch Video</p>
-                            </div>
-                        </div>
+<!--                        <div class="vid-btntitl">-->
+<!--                            <a href="https://www.youtube.com/watch?v=7e90gBu4pas?autoplay=1&amp;rel=0"-->
+<!--                               class="ree-btn  ree-btn-grdt1 ree-btn-round video-popup"><i class="fas fa-play"></i></a>-->
+<!--                            <div class="vide-btntitl vcenter">-->
+<!--                                <p>Watch Video</p>-->
+<!--                            </div>-->
+<!--                        </div>-->
                     </div>
                 </div>
             </div>
