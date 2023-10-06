@@ -90,11 +90,11 @@
             <div class="col-lg-4 col-md-6  col-sm-6 mt30">
                 <div class="fwb-main-x fwb-a">
                     <div class="work-thumbnails">
-                        <img src="images/portfolio/It-s-Paint-Party-LLC.png" alt="portfolio Byte Weavers" class="img-fluid">
+                        <a href="portfolio-details-paint.php"> <img src="images/portfolio/It-s-Paint-Party-LLC.png" alt="portfolio Byte Weavers" class="img-fluid"></a>
                     </div>
                     <div class="work-details">
                         <p class="mb10">UX, UI, Design, Development</p>
-                        <h4> Creative and minimal clothing label design </h4>
+                        <a href="portfolio-details-paint.php"> <h4> Creative and minimal clothing label design </h4></a>
                     </div>
                 </div>
             </div>
@@ -102,11 +102,11 @@
             <div class="col-lg-4 col-md-6  col-sm-6 mt30">
                 <div class="fwb-main-x fwb-a">
                     <div class="work-thumbnails">
-                        <img src="images/portfolio/TRACE-point.png" alt="portfolio Byte Weavers" class="img-fluid">
+                        <a href="#"> <img src="images/portfolio/TRACE-point.png" alt="portfolio Byte Weavers" class="img-fluid"></a>
                     </div>
                     <div class="work-details">
                         <p class="mb10">UX, UI, Graphic Design</p>
-                        <h4>Creative business card design service </h4>
+                        <a href="#"> <h4>Creative business card design service </h4></a>
                     </div>
                 </div>
             </div>
@@ -114,11 +114,11 @@
             <div class="col-lg-4 col-md-6  col-sm-6 mt30">
                 <div class="fwb-main-x fwb-a">
                     <div class="work-thumbnails">
-                        <img src="images/portfolio/Deep.png" alt="portfolio Byte Weavers" class="img-fluid">
+                        <a href="#"><img src="images/portfolio/Deep.png" alt="portfolio Byte Weavers" class="img-fluid"></a>
                     </div>
                     <div class="work-details">
                         <p class="mb10">UX, UI, Graphic Design</p>
-                        <h4> Furniture ios app kit design development </h4>
+                        <a href="#"> <h4> Furniture ios app kit design development </h4></a>
                     </div>
                 </div>
             </div>
@@ -127,11 +127,11 @@
             <div class="col-lg-4 col-md-6  col-sm-6 mt30">
                 <div class="fwb-main-x fwb-a">
                     <div class="work-thumbnails">
-                        <img src="images/portfolio/Kérastase-Education.png" alt="portfolio Byte Weavers" class="img-fluid">
+                        <a href="#"> <img src="images/portfolio/Kérastase-Education.png" alt="portfolio Byte Weavers" class="img-fluid"></a>
                     </div>
                     <div class="work-details">
                         <p class="mb10">UX, UI, Graphic Design</p>
-                        <h4> Creative and minimal clothing label design </h4>
+                        <a href="#"> <h4> Creative and minimal clothing label design </h4></a>
                     </div>
                 </div>
             </div>
@@ -139,11 +139,11 @@
             <div class="col-lg-4 col-md-6  col-sm-6 mt30">
                 <div class="fwb-main-x fwb-a">
                     <div class="work-thumbnails">
-                        <img src="images/portfolio/L’Oréal-Professionnel-Education.png" alt="portfolio Byte Weavers" class="img-fluid">
+                        <a href="#"> <img src="images/portfolio/L’Oréal-Professionnel-Education.png" alt="portfolio Byte Weavers" class="img-fluid"></a>
                     </div>
                     <div class="work-details">
                         <p class="mb10">UX, UI, Graphic Design</p>
-                        <h4>Creative business card design service </h4>
+                        <a href="#"> <h4>Creative business card design service </h4></a>
                     </div>
                 </div>
             </div>
@@ -151,77 +151,77 @@
             <div class="col-lg-4 col-md-6  col-sm-6 mt30">
                 <div class="fwb-main-x fwb-a">
                     <div class="work-thumbnails">
-                        <img src="images/portfolio/Redken-Education-new.png" alt="portfolio Byte Weavers" class="img-fluid">
+                        <a href="#"><img src="images/portfolio/Redken-Education-new.png" alt="portfolio Byte Weavers" class="img-fluid"></a>
                     </div>
                     <div class="work-details">
                         <p class="mb10">UX, UI, Graphic Design</p>
-                        <h4> Furniture ios app kit design development </h4>
+                        <a href="#"> <h4> Furniture ios app kit design development </h4></a>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6  col-sm-6 mt30">
                 <div class="fwb-main-x fwb-a">
                     <div class="work-thumbnails">
-                        <img src="images/portfolio/Matrix-Education.png" alt="portfolio Byte Weavers" class="img-fluid">
+                        <a href="#"><img src="images/portfolio/Matrix-Education.png" alt="portfolio Byte Weavers" class="img-fluid"></a>
                     </div>
                     <div class="work-details">
                         <p class="mb10">UX, UI, Graphic Design</p>
-                        <h4> Furniture ios app kit design development </h4>
+                        <a href="#"><h4> Furniture ios app kit design development </h4></a>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6  col-sm-6 mt30">
                 <div class="fwb-main-x fwb-a">
                     <div class="work-thumbnails">
-                        <img src="images/portfolio/crm.png" alt="portfolio Byte Weavers" class="img-fluid">
+                        <a href="#"><img src="images/portfolio/crm.png" alt="portfolio Byte Weavers" class="img-fluid"></a>
                     </div>
                     <div class="work-details">
                         <p class="mb10">UX, UI, Graphic Design</p>
-                        <h4> Furniture ios app kit design development </h4>
+                        <a href="#"> <h4> Furniture ios app kit design development </h4></a>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6  col-sm-6 mt30">
                 <div class="fwb-main-x fwb-a">
                     <div class="work-thumbnails">
-                        <img src="images/portfolio/linwood-forest.png" alt="portfolio Byte Weavers" class="img-fluid">
+                        <a href="#"> <img src="images/portfolio/linwood-forest.png" alt="portfolio Byte Weavers" class="img-fluid"></a>
                     </div>
                     <div class="work-details">
                         <p class="mb10">UX, UI, Graphic Design</p>
-                        <h4> Furniture ios app kit design development </h4>
+                        <a href="#"><h4> Furniture ios app kit design development </h4></a>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6  col-sm-6 mt30">
                 <div class="fwb-main-x fwb-a">
                     <div class="work-thumbnails">
-                        <img src="images/portfolio/Wed•Set•Go-Wed•Set•Go.png" alt="portfolio Byte Weavers" class="img-fluid">
+                        <a href="#"> <img src="images/portfolio/Wed•Set•Go-Wed•Set•Go.png" alt="portfolio Byte Weavers" class="img-fluid"></a>
                     </div>
                     <div class="work-details">
                         <p class="mb10">UX, UI, Graphic Design</p>
-                        <h4> Furniture ios app kit design development </h4>
+                        <a href="#"> <h4> Furniture ios app kit design development </h4></a>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6  col-sm-6 mt30">
                 <div class="fwb-main-x fwb-a">
                     <div class="work-thumbnails">
-                        <img src="images/portfolio/Road-Race-Bike-Rental-Bike-Hire-Near-Me-Cycle-On-Rent-High-End-Road-Bike-Rental-New-York-Nyc-Roula.png" alt="portfolio Byte Weavers" class="img-fluid">
+                        <a href="#"> <img src="images/portfolio/Road-Race-Bike-Rental-Bike-Hire-Near-Me-Cycle-On-Rent-High-End-Road-Bike-Rental-New-York-Nyc-Roula.png" alt="portfolio Byte Weavers" class="img-fluid"></a>
                     </div>
                     <div class="work-details">
                         <p class="mb10">UX, UI, Graphic Design</p>
-                        <h4> Furniture ios app kit design development </h4>
+                        <a href="#"><h4> Furniture ios app kit design development </h4></a>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6  col-sm-6 mt30">
                 <div class="fwb-main-x fwb-a">
                     <div class="work-thumbnails">
-                        <img src="images/portfolio/CNA-NetNurse.png" alt="portfolio Byte Weavers" class="img-fluid">
+                        <a href="#"> <img src="images/portfolio/CNA-NetNurse.png" alt="portfolio Byte Weavers" class="img-fluid"></a>
                     </div>
                     <div class="work-details">
                         <p class="mb10">UX, UI, Graphic Design</p>
-                        <h4> Furniture ios app kit design development </h4>
+                        <a href="#"> <h4> Furniture ios app kit design development </h4></a>
                     </div>
                 </div>
             </div>
