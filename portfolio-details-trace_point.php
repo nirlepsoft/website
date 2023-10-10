@@ -57,6 +57,14 @@
 							</div>
 							<div class="icon-with-title">
 								<a href="javascript:void(0)">
+									<div class="iwt-icon"> <img src="images/icons/sqs.png" alt="SQS"> </div>
+									<div class="iwt-content">
+										<p>SQS</p>
+									</div>
+								</a>
+							</div>
+							<div class="icon-with-title">
+								<a href="javascript:void(0)">
 									<div class="iwt-icon"> <img src="images/icons/mysql.svg" alt="MySql"> </div>
 									<div class="iwt-content">
 										<p>MySql</p>
