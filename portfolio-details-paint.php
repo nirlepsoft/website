@@ -1,7 +1,7 @@
 <?php include('header.php'); ?>
 
 	   <!-- Header title -->
-<section class="header-title head-opacity" data-background="images/banner/office.jpg">
+<section class="header-title head-opacity" data-background="images/portfolio/It-s-Paint-Party-LLC.png">
 	<div class="container">
 	   <div class="row">
 		  <div class="col-lg-6">
@@ -49,6 +49,14 @@
 							</div>
 							<div class="icon-with-title">
 								<a href="javascript:void(0)">
+									<div class="iwt-icon"> <img src="images/icons/php.png" alt="PHP"> </div>
+									<div class="iwt-content">
+										<p>PHP</p>
+									</div>
+								</a>
+							</div>
+							<div class="icon-with-title">
+								<a href="javascript:void(0)">
 									<div class="iwt-icon"> <img src="images/icons/mysql.svg" alt="MySql"> </div>
 									<div class="iwt-content">
 										<p>MySql</p>
@@ -64,7 +72,7 @@
 <!--needs and solution-->
 	<section class="r-bg-a" style="padding-bottom: 40px;">
 		<div class="container">
-				<div class="row col-lg-11 m-mb30">
+				<div class="row col-lg-12 m-mb30 justify">
 					<div>
 						 <h3>Background</h3>
 						 <p class="mt15">Organizing paint party events requires coordinating with artists and venues to managing registrations
@@ -122,16 +130,17 @@
 					</div>
 					<div>
 						 <h3 class="mt15" >The Result</h3>
-						 <p class="mt15">As a direct outcome of our efforts, the client experienced a remarkable 39% increase in annual revenue, attributed to their enhanced ability to efficiently manage a higher volume of events compared to previous years. Furthermore, the implementation of secure payment processing and an optimized transaction experience led to a significant boost in customer retention, with an impressive 17% increase among existing customers, and a remarkable 23% rise in new customer acquisition by year-end.
+						 <p class="mt15">As a direct outcome of our efforts, the client experienced a remarkable 39% increase in annual revenue, attributed
+							  to their enhanced ability to efficiently manage a higher volume of events compared to previous years. Furthermore, the
+								implementation of secure payment processing and an optimized transaction experience led to a significant boost in customer
+								retention, with an <b>impressive 17% increase </b>among existing customers, and a <b>remarkable 23% rise in new customer</b> acquisition by year-end.
 						 </p>
 					</div>
 				</div>
 				<div class="row justify-content-center mt60">
 					<div class="col-lg-6">
 						<div class="center-btn big-txt">
-							<a href="#" class="ree-btn  ree-btn-grdt2"><i class="fas fa-arrow-left fa-btn mr5"></i> Previous Project </a>
-							<a href="#" class="ree-btn  ree-btn-grdt2"> Next Project <i class="fas fa-arrow-right fa-btn"></i></a>
-
+							<a href="portfolio-details-trace_point.php" class="ree-btn  ree-btn-grdt2"> Next Project <i class="fas fa-arrow-right fa-btn"></i></a>
 						</div>
 					</div>
 					</div>
