@@ -155,7 +155,7 @@
                     </div>
                     <div class="work-details">
                         <!-- <p class="mb10">UX, UI, Graphic Design</p> -->
-                        <a href="#"> <h4> E-Learning manager</h4></a>
+                        <a href="portfolio-details-redken.php"> <h4> E-Learning manager</h4></a>
                     </div>
                 </div>
             </div>
