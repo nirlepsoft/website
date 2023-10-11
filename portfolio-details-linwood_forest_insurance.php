@@ -5,7 +5,7 @@
 	<div class="container">
 	   <div class="row">
 		  <div class="col-lg-6">
-			<h1 class="mb15" data-aos="fade-up" data-aos-delay="400"> <span class="ree-text rt40">Self/E-Learning</span> Web Apllication</h1>
+			<h1 class="mb15" data-aos="fade-up" data-aos-delay="400"> <span class="ree-text rt40">Insurance agency and brokerage firm </span> Web Apllication</h1>
 			 <p class="h-light">Help customers finding insurance for their needs.</p>
 
 		  <div class="case-study-about mt30">
@@ -41,17 +41,17 @@
 						<div class="technolo-sec">
 							<div class="icon-with-title">
 								<a href="javascript:void(0)">
-									<div class="iwt-icon"> <img src="images/icons/laravel.png" alt="Laravel"> </div>
+									<div class="iwt-icon"> <img src="images/icons/ruby.png" alt="Ruby"> </div>
 									<div class="iwt-content">
-										<p>Laravel</p>
+										<p>Ruby</p>
 									</div>
 								</a>
 							</div>
 							<div class="icon-with-title">
 								<a href="javascript:void(0)">
-									<div class="iwt-icon"> <img src="images/icons/php.png" alt="PHP"> </div>
+									<div class="iwt-icon"> <img src="images/icons/rails.svg" alt="Rails"> </div>
 									<div class="iwt-content">
-										<p>PHP</p>
+										<p>Rails</p>
 									</div>
 								</a>
 							</div>

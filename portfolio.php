@@ -143,7 +143,7 @@
                     </div>
                     <div class="work-details">
                         <!-- <p class="mb10">UX, UI, Graphic Design</p> -->
-                        <a href="portfolio-details-L’Oréal-Professionnel.php"> <h4> E-learning manager</h4></a>
+                        <a href="portfolio-details-Loreal-Professionnel.php"> <h4> E-learning manager</h4></a>
                     </div>
                 </div>
             </div>
