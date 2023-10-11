@@ -131,7 +131,7 @@
                     </div>
                     <div class="work-details">
                         <!-- <p class="mb10">UX, UI, Graphic Design</p> -->
-                        <a href="#"> <h4> E-Learning manager </h4></a>
+                        <a href="portfolio-details-kerastase.php"> <h4> E-learning manager</h4></a>
                     </div>
                 </div>
             </div>
@@ -143,7 +143,7 @@
                     </div>
                     <div class="work-details">
                         <!-- <p class="mb10">UX, UI, Graphic Design</p> -->
-                        <a href="#"> <h4>E-Learning manager</h4></a>
+                        <a href="portfolio-details-L’Oréal-Professionnel.php"> <h4> E-learning manager</h4></a>
                     </div>
                 </div>
             </div>
@@ -166,7 +166,7 @@
                     </div>
                     <div class="work-details">
                         <!-- <p class="mb10">UX, UI, Graphic Design</p> -->
-                        <a href="#"><h4> E-Learning manager </h4></a>
+                        <a href="portfolio-details-trace_point.php"> <h4> E-learning manager</h4></a>
                     </div>
                 </div>
             </div>
@@ -188,7 +188,7 @@
                     </div>
                     <div class="work-details">
                         <!-- <p class="mb10">UX, UI, Graphic Design</p> -->
-                        <a href="#"><h4> Insurance service </h4></a>
+                        <a href="portfolio-details-linwood_forest_insurance.php"><h4> Insurance service </h4></a>
                     </div>
                 </div>
             </div>

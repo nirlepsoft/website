@@ -5,7 +5,7 @@
 	<div class="container">
 	   <div class="row">
 		  <div class="col-lg-6">
-			<h1 class="mb15" data-aos="fade-up" data-aos-delay="400"> <span class="ree-text rt40">Self Learning</span> Web Apllication</h1>
+			<h1 class="mb15" data-aos="fade-up" data-aos-delay="400"> <span class="ree-text rt40">Self/E-Learning</span> Web Apllication</h1>
 			 <p class="h-light">Learn and manage progress on your own and earn badges & certificates. </p>
 
 		  <div class="case-study-about mt30">
@@ -142,7 +142,7 @@
 					<div class="col-lg-6">
 						<div class="center-btn big-txt">
 							<a href="portfolio-details-paint.php" class="ree-btn  ree-btn-grdt2"><i class="fas fa-arrow-left fa-btn mr5"></i> Previous Project </a>
-							<a href="#" class="ree-btn  ree-btn-grdt2"> Next Project <i class="fas fa-arrow-right fa-btn"></i></a>
+							<a href="portfolio-details-kerastase.php" class="ree-btn  ree-btn-grdt2"> Next Project <i class="fas fa-arrow-right fa-btn"></i></a>
 
 						</div>
 					</div>
