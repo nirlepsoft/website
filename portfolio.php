@@ -92,9 +92,11 @@
                     <div class="work-thumbnails">
                         <a href="portfolio-details-paint.php"> <img src="images/portfolio/It-s-Paint-Party-LLC.png" alt="portfolio Byte Weavers" class="img-fluid"></a>
                     </div>
-                    <div class="work-details">
+                    <div class="work-details-center">
                         <!-- <p class="mb10">UX, UI, Design, Development</p> -->
                         <a href="portfolio-details-paint.php"> <h4> Paint party organizer </h4></a>
+                        <a href="https://byte-weavers.com/paint/" class="ree-btn-no-inline  ree-btn-grdt1 mt10 mw-10">Demo <i
+                                    class="fas fa-arrow-right fa-btn"></i></a>
                     </div>
                 </div>
             </div>
@@ -102,11 +104,13 @@
             <div class="col-lg-4 col-md-6  col-sm-6 mt30">
                 <div class="fwb-main-x fwb-a">
                     <div class="work-thumbnails">
-                        <a href="#"> <img src="images/portfolio/TRACE-point.png" alt="portfolio Byte Weavers" class="img-fluid"></a>
+                        <a href="portfolio-details-trace_point.php"> <img src="images/portfolio/TRACE-point.png" alt="portfolio Byte Weavers" class="img-fluid"></a>
                     </div>
-                    <div class="work-details">
+                    <div class="work-details-center">
                         <!-- <p class="mb10">UX, UI, Graphic Design</p> -->
                         <a href="portfolio-details-trace_point.php"> <h4> Self learning </h4></a>
+                        <a href="https://byte-weavers.com/tracepoint/" class="ree-btn-no-inline ree-btn-grdt1  mt10 mw-10">Demo <i
+                                    class="fas fa-arrow-right fa-btn"></i></a>
                     </div>
                 </div>
             </div>
@@ -116,9 +120,11 @@
                     <div class="work-thumbnails">
                         <a href="#"><img src="images/portfolio/Deep.png" alt="portfolio Byte Weavers" class="img-fluid"></a>
                     </div>
-                    <div class="work-details">
+                    <div class="work-details-center">
                         <!-- <p class="mb10">UX, UI, Graphic Design</p> -->
                         <a href="#"> <h4> For & by community </h4></a>
+                        <a href="contact-us.php" class="ree-btn-no-inline  ree-btn-grdt1 mt10 mw-10">Contact us <i
+                                    class="fas fa-arrow-right fa-btn"></i></a>
                     </div>
                 </div>
             </div>
@@ -127,11 +133,13 @@
             <div class="col-lg-4 col-md-6  col-sm-6 mt30">
                 <div class="fwb-main-x fwb-a">
                     <div class="work-thumbnails">
-                        <a href="#"> <img src="images/portfolio/Kérastase-Education.png" alt="portfolio Byte Weavers" class="img-fluid"></a>
+                        <a href="portfolio-details-kerastase.php"> <img src="images/portfolio/Kérastase-Education.png" alt="portfolio Byte Weavers" class="img-fluid"></a>
                     </div>
-                    <div class="work-details">
+                    <div class="work-details-center">
                         <!-- <p class="mb10">UX, UI, Graphic Design</p> -->
                         <a href="portfolio-details-kerastase.php"> <h4> E-learning manager</h4></a>
+                        <a href="contact-us.php" class="ree-btn-no-inline  ree-btn-grdt1 mt10 mw-10">Contact us <i
+                                    class="fas fa-arrow-right fa-btn"></i></a>
                     </div>
                 </div>
             </div>
@@ -139,11 +147,13 @@
             <div class="col-lg-4 col-md-6  col-sm-6 mt30">
                 <div class="fwb-main-x fwb-a">
                     <div class="work-thumbnails">
-                        <a href="#"> <img src="images/portfolio/L’Oréal-Professionnel-Education.png" alt="portfolio Byte Weavers" class="img-fluid"></a>
+                        <a href="portfolio-details-Loreal-Professionnel.php"> <img src="images/portfolio/L’Oréal-Professionnel-Education.png" alt="portfolio Byte Weavers" class="img-fluid"></a>
                     </div>
-                    <div class="work-details">
+                    <div class="work-details-center">
                         <!-- <p class="mb10">UX, UI, Graphic Design</p> -->
                         <a href="portfolio-details-Loreal-Professionnel.php"> <h4> E-learning manager</h4></a>
+                        <a href="contact-us.php" class="ree-btn-no-inline  ree-btn-grdt1 mt10 mw-10">Contact us <i
+                                    class="fas fa-arrow-right fa-btn"></i></a>
                     </div>
                 </div>
             </div>
@@ -151,22 +161,26 @@
             <div class="col-lg-4 col-md-6  col-sm-6 mt30">
                 <div class="fwb-main-x fwb-a">
                     <div class="work-thumbnails">
-                        <a href="#"><img src="images/portfolio/Redken-Education-new.png" alt="portfolio Byte Weavers" class="img-fluid"></a>
+                        <a href="portfolio-details-redken.php"><img src="images/portfolio/Redken-Education-new.png" alt="portfolio Byte Weavers" class="img-fluid"></a>
                     </div>
-                    <div class="work-details">
+                    <div class="work-details-center">
                         <!-- <p class="mb10">UX, UI, Graphic Design</p> -->
                         <a href="portfolio-details-redken.php"> <h4> E-Learning manager</h4></a>
+                        <a href="contact-us.php" class="ree-btn-no-inline  ree-btn-grdt1 mt10 mw-10">Contact us <i
+                                    class="fas fa-arrow-right fa-btn"></i></a>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6  col-sm-6 mt30">
                 <div class="fwb-main-x fwb-a">
                     <div class="work-thumbnails">
-                        <a href="#"><img src="images/portfolio/Matrix-Education.png" alt="portfolio Byte Weavers" class="img-fluid"></a>
+                        <a href="portfolio-details-matrix_educational.php"><img src="images/portfolio/Matrix-Education.png" alt="portfolio Byte Weavers" class="img-fluid"></a>
                     </div>
-                    <div class="work-details">
+                    <div class="work-details-center">
                         <!-- <p class="mb10">UX, UI, Graphic Design</p> -->
                         <a href="portfolio-details-trace_point.php"> <h4> E-learning manager</h4></a>
+                        <a href="contact-us.php" class="ree-btn-no-inline  ree-btn-grdt1 mt10 mw-10">Contact us <i
+                                    class="fas fa-arrow-right fa-btn"></i></a>
                     </div>
                 </div>
             </div>
@@ -175,7 +189,7 @@
                     <div class="work-thumbnails">
                         <a href="#"><img src="images/portfolio/crm.png" alt="portfolio Byte Weavers" class="img-fluid"></a>
                     </div>
-                    <div class="work-details">
+                    <div class="work-details-center">
                         <!-- <p class="mb10">UX, UI, Graphic Design</p> -->
                         <a href="#"> <h4> Client manager </h4></a>
                     </div>
@@ -184,44 +198,52 @@
             <div class="col-lg-4 col-md-6  col-sm-6 mt30">
                 <div class="fwb-main-x fwb-a">
                     <div class="work-thumbnails">
-                        <a href="#"> <img src="images/portfolio/linwood-forest.png" alt="portfolio Byte Weavers" class="img-fluid"></a>
+                        <a href="contact-us.php"> <img src="images/portfolio/linwood-forest.png" alt="portfolio Byte Weavers" class="img-fluid"></a>
                     </div>
-                    <div class="work-details">
+                    <div class="work-details-center">
                         <!-- <p class="mb10">UX, UI, Graphic Design</p> -->
-                        <a href="portfolio-details-linwood_forest_insurance.php"><h4> Insurance service </h4></a>
+                        <h4> Insurance service </h4></a>
+                        <a href="contact-us.php" class="ree-btn-no-inline  ree-btn-grdt1 mt10 mw-10">Contact us <i
+                                    class="fas fa-arrow-right fa-btn"></i></a>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6  col-sm-6 mt30">
                 <div class="fwb-main-x fwb-a">
                     <div class="work-thumbnails">
-                        <a href="#"> <img src="images/portfolio/Wed•Set•Go-Wed•Set•Go.png" alt="portfolio Byte Weavers" class="img-fluid"></a>
+                        <a href="contact-us.php"> <img src="images/portfolio/Wed•Set•Go-Wed•Set•Go.png" alt="portfolio Byte Weavers" class="img-fluid"></a>
                     </div>
-                    <div class="work-details">
+                    <div class="work-details-center">
                         <!-- <p class="mb10">UX, UI, Graphic Design</p> -->
-                        <a href="#"> <h4> Wedding organizer </h4></a>
+                        <h4> Wedding organizer </h4>
+                        <a href="contact-us.php" class="ree-btn-no-inline  ree-btn-grdt1 mt10 mw-10">Contact us <i
+                                    class="fas fa-arrow-right fa-btn"></i></a>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6  col-sm-6 mt30">
                 <div class="fwb-main-x fwb-a">
                     <div class="work-thumbnails">
-                        <a href="#"> <img src="images/portfolio/Road-Race-Bike-Rental-Bike-Hire-Near-Me-Cycle-On-Rent-High-End-Road-Bike-Rental-New-York-Nyc-Roula.png" alt="portfolio Byte Weavers" class="img-fluid"></a>
+                        <a href="contact-us.php"> <img src="images/portfolio/Road-Race-Bike-Rental-Bike-Hire-Near-Me-Cycle-On-Rent-High-End-Road-Bike-Rental-New-York-Nyc-Roula.png" alt="portfolio Byte Weavers" class="img-fluid"></a>
                     </div>
-                    <div class="work-details">
+                    <div class="work-details-center">
                         <!-- <p class="mb10">UX, UI, Graphic Design</p> -->
-                        <a href="#"><h4> Sightseeing bike tour </h4></a>
+                        <h4> Sightseeing bike tour </h4>
+                        <a href="contact-us.php" class="ree-btn-no-inline  ree-btn-grdt1 mt10 mw-10">Contact us <i
+                                    class="fas fa-arrow-right fa-btn"></i></a>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6  col-sm-6 mt30">
                 <div class="fwb-main-x fwb-a">
                     <div class="work-thumbnails">
-                        <a href="#"> <img src="images/portfolio/CNA-NetNurse.png" alt="portfolio Byte Weavers" class="img-fluid"></a>
+                        <a href="contact-us.php"> <img src="images/portfolio/CNA-NetNurse.png" alt="portfolio Byte Weavers" class="img-fluid"></a>
                     </div>
-                    <div class="work-details">
+                    <div class="work-details-center">
                         <!-- <p class="mb10">UX, UI, Graphic Design</p> -->
-                        <a href="#"> <h4> Home caregiver </h4></a>
+                        <h4> Home caregiver </h4>
+                        <a href="contact-us.php" class="ree-btn-no-inline  ree-btn-grdt1 mt10 mw-10">Contact us <i
+                                    class="fas fa-arrow-right fa-btn"></i></a>
                     </div>
                 </div>
             </div>

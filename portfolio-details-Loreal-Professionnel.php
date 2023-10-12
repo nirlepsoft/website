@@ -113,7 +113,8 @@
 					</div>
 					<div>
 						 <h3 class="mt15" >The Result</h3>
-						 <p class="mt15">With our help, our client was able to <b>save about 21% of time</b> that was spent to manage contents for learning.
+						 <p class="mt15">By project completion, our client had gained the capability to conduct in-depth analysis of assessment outcomes, which,
+							 in turn, empowered them to provide targeted support to individuals in areas requiring improvement.
 						 </p>
 					</div>
 				</div>
@@ -121,7 +122,7 @@
 					<div class="col-lg-6">
 						<div class="center-btn big-txt">
 							<a href="portfolio-details-kerastase.php" class="ree-btn  ree-btn-grdt2"><i class="fas fa-arrow-left fa-btn mr5"></i> Previous Project </a>
-							<a href="#" class="ree-btn  ree-btn-grdt2"> Next Project <i class="fas fa-arrow-right fa-btn"></i></a>
+							<a href="portfolio-details-redken.php" class="ree-btn  ree-btn-grdt2"> Next Project <i class="fas fa-arrow-right fa-btn"></i></a>
 
 						</div>
 					</div>
