@@ -6,11 +6,11 @@
                 <div class="col footer-head">
                     <h5>Contact info</h5>
                     <ul class="footer-links-list social-linkz">
-                        <li><a href="tel:+911234567890"><span><i class="fas fa-phone-square-alt"></i></span> +91 123 4567 890 </a></li>
-                        <li><a href="tel:+911234567890"><span><i class="fab fa-whatsapp-square"></i></span> +91 123 4567 890</a></li>
-                        <li><a href="mailto:career@reevan.com"><span><i class="fas fa-envelope"></i></span> career@reevan.com</a></li>
-                        <li><a href="mailto:career@reevan.com"><span><i class="fas fa-envelope"></i></span> info@reevan.com</a></li>
-                        <li><a href="skype:reevan.company"><span><i class="fab fa-skype"></i></span> reevan-skype</a></li>
+                        <li><a href="tel:+919316048900"><span><i class="fas fa-phone-square-alt"></i></span> +91 9316048900 </a></li>
+                        <li><a href="https://wa.me/+919998004908"><span><i class="fab fa-whatsapp-square"></i></span> +91 9998004908</a></li>
+                        <li><a href="mailto:hr@reevan.com"><span><i class="fas fa-envelope"></i></span> hr@reevan.com</a></li>
+                        <li><a href="mailto:sales@reevan.com"><span><i class="fas fa-envelope"></i></span> sales@reevan.com</a></li>
+                        <li><a href="skype:live:.cid.935503ab957072c9?chat"><span><i class="fab fa-skype"></i></span> Byte Weavers</a></li>
                     </ul>
                 </div>
 <!--                <div class="col footer-head">-->
