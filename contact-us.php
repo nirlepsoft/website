@@ -82,8 +82,7 @@ use PHPMailer\PHPMailer\PHPMailer;
 										<div class="ree-icon-set dtb-icon"> <i class="fas fa-phone-alt"></i>	</div>
 										<div class="ree-details-set dtb-details">
 											<span>Salse Department</span>
-											<a href="tel:+911234567890"> +91 1234567890 </a>
-											<a href="tel:+911234567890"> +91 1234567890 </a>
+											<a href="tel:+911234567890"> +91 9316048900 </a>
 										</div>
 									</div>
 								</div>
@@ -94,8 +93,7 @@ use PHPMailer\PHPMailer\PHPMailer;
 										<div class="ree-icon-set dtb-icon"> <i class="fas fa-phone-alt"></i> </div>
 										<div class="ree-details-set dtb-details">
 											<span>HR Department</span>
-											<a href="tel:+911234567890"> +91 1234567890 </a>
-											<a href="tel:+911234567890"> +91 1234567890 </a>
+											<a href="tel:+911234567890"> +91 9998004908 </a>
 										</div>
 									</div>
 								</div>
@@ -108,7 +106,7 @@ use PHPMailer\PHPMailer\PHPMailer;
 										<div class="ree-icon-set dtb-icon"> <i class="fas fa-envelope"></i>	</div>
 										<div class="ree-details-set dtb-details">
 											<span>Salse Department</span>
-											<a href="mailto:salse@example.com"> salse@example.com </a>
+											<a href="mailto:salse@example.com"> sales@byte-weavers.com </a>
 										</div>
 									</div>
 								</div>
@@ -119,7 +117,7 @@ use PHPMailer\PHPMailer\PHPMailer;
 										<div class="ree-icon-set dtb-icon"> <i class="fas fa-envelope"></i> </div>
 										<div class="ree-details-set dtb-details">
 											<span>HR Department</span>
-											<a href="#"> hr@example.com </a>
+											<a href="#"> hr@byte-weavers.com </a>
 										</div>
 									</div>
 								</div>
@@ -278,25 +276,25 @@ use PHPMailer\PHPMailer\PHPMailer;
 									<a href="javascript:void(0)" target="blank" class="btn-outline rount-btn" data-toggle="tooltip" title="Map Location"><i class="fas fa-map-marker-alt"></i></a>
 									<a href="javascript:void(0)" target="blank" class="btn-outline rount-btn" data-toggle="tooltip" title="Phone Number"><i class="fas fa-phone-alt"></i></a>
 									<a href="javascript:void(0)" target="blank" class="btn-outline rount-btn" data-toggle="tooltip" title="Email Address"><i class="fas fa-envelope"></i></a>
-									<a href="javascript:void(0)" target="blank" class="btn-outline rount-btn" data-toggle="tooltip" title="Skype Id"><i class="fab fa-skype"></i></a>
+									<a href="skype:live:.cid.935503ab957072c9?chat" target="blank" class="btn-outline rount-btn" data-toggle="tooltip" title="Skype Id"><i class="fab fa-skype"></i></a>
 								</div>
 							</div>
 						</div>
-<!--						<div class="col-lg-4">-->
-<!--							<div class="location-block- mt60">-->
-<!--								<div class="loc-icon-nam">-->
-<!--									<img src="images/icons/burj-al-arab.svg" alt="burj-al-arab">-->
-<!--									<p><span class="ree-text rt40">Dubai</span></p>-->
-<!--								</div>-->
-<!--								<p class="pt20 pb20">Tom Extension, 1st Block 2nd Cross, Yello round circle, Jaipur, Rajasthan 123456</p>-->
-<!--								<div class="loc-contct">-->
-<!--									<a href="javascript:void(0)" target="blank" class="btn-outline rount-btn" data-toggle="tooltip" title="Map Location"><i class="fas fa-map-marker-alt"></i></a>-->
-<!--									<a href="javascript:void(0)" target="blank" class="btn-outline rount-btn" data-toggle="tooltip" title="Phone Number"><i class="fas fa-phone-alt"></i></a>-->
-<!--									<a href="javascript:void(0)" target="blank" class="btn-outline rount-btn" data-toggle="tooltip" title="Email Address"><i class="fas fa-envelope"></i></a>-->
-<!--									<a href="javascript:void(0)" target="blank" class="btn-outline rount-btn" data-toggle="tooltip" title="Skype Id"><i class="fab fa-skype"></i></a>-->
-<!--								</div>-->
-<!--							</div>-->
-<!--						</div>-->
+                        <div class="col-lg-4">
+                            <div class="location-block- mt60">
+                                <div class="loc-icon-nam">
+                                    <img src="images/icons/big-ben.svg" alt="big-ben">
+                                    <p><span class="ree-text rt40">UK</span></p>
+                                </div>
+                                <p class="pt20 pb20">43 Shaftesbury Road, E7 8PF, London, United Kingdom</p>
+                                <div class="loc-contct">
+                                    <a href="https://maps.app.goo.gl/SSt6A9NMmPK6UvgN6" target="blank" class="btn-outline rount-btn" data-toggle="tooltip" title="Map Location"><i class="fas fa-map-marker-alt"></i></a>
+                                    <a href="tel:+44 7901 174281" target="blank" class="btn-outline rount-btn" data-toggle="tooltip" title="Phone Number"><i class="fas fa-phone-alt"></i></a>
+                                    <a href="mailto:sales@byteweavers.com" target="blank" class="btn-outline rount-btn" data-toggle="tooltip" title="Email Address"><i class="fas fa-envelope"></i></a>
+                                    <a href="skype:live:.cid.935503ab957072c9?chat" target="blank" class="btn-outline rount-btn" data-toggle="tooltip" title="Skype Id"><i class="fab fa-skype"></i></a>
+                                </div>
+                            </div>
+                        </div>
 <!--						<div class="col-lg-4">-->
 <!--							<div class="location-block- mt60">-->
 <!--								<div class="loc-icon-nam">-->

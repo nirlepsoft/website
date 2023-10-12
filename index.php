@@ -1197,22 +1197,22 @@ if (isset($_REQUEST['submit'])){
                 <div class="home-contact-block">
                     <div class="contact-infos">
                         <div class="c-infot">
-                            <span>Sales Department</span> <a href="tel:+911234567890"><i class="fas fa-phone-alt"></i>
-                                +91 123 4567 890</a>
+                            <span>Sales Department</span> <a href="tel:+919316048900"><i class="fas fa-phone-alt"></i>
+                                +91 9316048900</a>
                         </div>
                         <div class="c-infot">
-                            <span>HR Department</span> <a href="tel:+911234567890"><i class="fas fa-phone-alt"></i> +91
-                                123 4567 890</a>
+                            <span>HR Department</span> <a href="tel:+919998004908"><i class="fas fa-phone-alt"></i> +91
+                                9998004908</a>
                         </div>
                     </div>
                     <div class="contact-infos mt35">
                         <div class="c-infot">
-                            <span>Sales Department</span> <a href="mailto:sales@byteweavers.com"><i
-                                        class="fas fa-envelope"></i> reevan@abc.com</a>
+                            <span>Sales Department</span> <a href="mailto:sales@byte-weavers.com"><i
+                                        class="fas fa-envelope"></i> sales@byte-weavers.com</a>
                         </div>
                         <div class="c-infot">
-                            <span>Connect on Skype</span> <a href=""><i class="fab fa-skype"></i>
-                                reevan.company</a>
+                            <span>Connect on Skype</span> <a href="skype:live:.cid.935503ab957072c9?chat"><i class="fab fa-skype"></i>
+                                Byte Weavers</a>
                         </div>
                     </div>
                     <div class="live-review- mt60">
@@ -1300,11 +1300,11 @@ if (isset($_REQUEST['submit'])){
                     <div class="loc-contct">
                         <a href="javascript:void(0)" target="blank" class="btn-outline rount-btn" data-toggle="tooltip"
                            title="Map Location"><i class="fas fa-map-marker-alt"></i></a>
-                        <a href="javascript:void(0)" target="blank" class="btn-outline rount-btn" data-toggle="tooltip"
+                        <a href="tel:+919998004908" target="blank" class="btn-outline rount-btn" data-toggle="tooltip"
                            title="Phone Number"><i class="fas fa-phone-alt"></i></a>
-                        <a href="javascript:void(0)" target="blank" class="btn-outline rount-btn" data-toggle="tooltip"
+                        <a href="mailto:sales@byte-weavers.com" target="blank" class="btn-outline rount-btn" data-toggle="tooltip"
                            title="Email Address"><i class="fas fa-envelope"></i></a>
-                        <a href="javascript:void(0)" target="blank" class="btn-outline rount-btn" data-toggle="tooltip"
+                        <a href="skype:live:.cid.935503ab957072c9?chat" target="blank" class="btn-outline rount-btn" data-toggle="tooltip"
                            title="Skype Id"><i class="fab fa-skype"></i></a>
                     </div>
                 </div>
@@ -1317,10 +1317,10 @@ if (isset($_REQUEST['submit'])){
                           </div>
                           <p class="pt20 pb20">43 Shaftesbury Road, E7 8PF, London, United Kingdom</p>
                           <div class="loc-contct">
-                            <a href="javascript:void(0)" target="blank" class="btn-outline rount-btn" data-toggle="tooltip" title="Map Location"><i class="fas fa-map-marker-alt"></i></a>
-                            <a href="javascript:void(0)" target="blank" class="btn-outline rount-btn" data-toggle="tooltip" title="Phone Number"><i class="fas fa-phone-alt"></i></a>
-                            <a href="javascript:void(0)" target="blank" class="btn-outline rount-btn" data-toggle="tooltip" title="Email Address"><i class="fas fa-envelope"></i></a>
-                            <a href="javascript:void(0)" target="blank" class="btn-outline rount-btn" data-toggle="tooltip" title="Skype Id"><i class="fab fa-skype"></i></a>
+                            <a href="https://maps.app.goo.gl/SSt6A9NMmPK6UvgN6" target="blank" class="btn-outline rount-btn" data-toggle="tooltip" title="Map Location"><i class="fas fa-map-marker-alt"></i></a>
+                            <a href="tel:+44 7901 174281" target="blank" class="btn-outline rount-btn" data-toggle="tooltip" title="Phone Number"><i class="fas fa-phone-alt"></i></a>
+                            <a href="mailto:sales@byteweavers.com" target="blank" class="btn-outline rount-btn" data-toggle="tooltip" title="Email Address"><i class="fas fa-envelope"></i></a>
+                            <a href="skype:live:.cid.935503ab957072c9?chat" target="blank" class="btn-outline rount-btn" data-toggle="tooltip" title="Skype Id"><i class="fab fa-skype"></i></a>
                           </div>
                         </div>
                       </div>

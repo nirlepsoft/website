@@ -13,17 +13,17 @@
                         <li><a href="skype:reevan.company"><span><i class="fab fa-skype"></i></span> reevan-skype</a></li>
                     </ul>
                 </div>
-                <div class="col footer-head">
-                    <h5>Follow Us</h5>
-                    <ul class="footer-links-list social-linkz">
-                        <li><a href="javascript:void(0)"><span><i class="fab fa-facebook-f"></i></span> Facebook</a>	</li>
-                        <li><a href="javascript:void(0)"><span><i class="fab fa-twitter"></i></span> Twitter </a>	</li>
-                        <li><a href="javascript:void(0)"><span><i class="fab fa-instagram"></i></span> Instagram</a> </li>
-                        <li><a href="javascript:void(0)"><span><i class="fab fa-pinterest-p"></i></span> Pinterest</a></li>
-                        <li><a href="javascript:void(0)"><span><i class="fab fa-linkedin-in"></i></span> linkedin</a></li>
-                        <li><a href="javascript:void(0)"><span><i class="fab fa-youtube"></i></span> Youtube</a> </li>
-                    </ul>
-                </div>
+<!--                <div class="col footer-head">-->
+<!--                    <h5>Follow Us</h5>-->
+<!--                    <ul class="footer-links-list social-linkz">-->
+<!--                        <li><a href="javascript:void(0)"><span><i class="fab fa-facebook-f"></i></span> Facebook</a>	</li>-->
+<!--                        <li><a href="javascript:void(0)"><span><i class="fab fa-twitter"></i></span> Twitter </a>	</li>-->
+<!--                        <li><a href="javascript:void(0)"><span><i class="fab fa-instagram"></i></span> Instagram</a> </li>-->
+<!--                        <li><a href="javascript:void(0)"><span><i class="fab fa-pinterest-p"></i></span> Pinterest</a></li>-->
+<!--                        <li><a href="javascript:void(0)"><span><i class="fab fa-linkedin-in"></i></span> linkedin</a></li>-->
+<!--                        <li><a href="javascript:void(0)"><span><i class="fab fa-youtube"></i></span> Youtube</a> </li>-->
+<!--                    </ul>-->
+<!--                </div>-->
                 <div class="col footer-head">
                     <h5>Services</h5>
                     <ul class="footer-links-list">
@@ -34,17 +34,17 @@
                         <li><a href="javascript:void(0)">Product Design</a></li>
                     </ul>
                 </div>
-<!--                <div class="col footer-head">-->
-<!--                    <h5>Industries</h5>-->
-<!--                    <ul class="footer-links-list">-->
-<!--                        <li><a href="javascript:void(0)">Healthcare</a></li>-->
-<!--                        <li><a href="javascript:void(0)">Education</a></li>-->
-<!--                        <li><a href="javascript:void(0)">Retail</a></li>-->
-<!--                        <li><a href="javascript:void(0)">Logistics</a></li>-->
-<!--                        <li><a href="javascript:void(0)">Oil & Gas</a></li>-->
-<!--                        <li><a href="javascript:void(0)">Music & Video</a></li>-->
-<!--                    </ul>-->
-<!--                </div>-->
+                <div class="col footer-head">
+                    <h5>Industries</h5>
+                    <ul class="footer-links-list">
+                        <li><a href="javascript:void(0)">Event</a></li>
+                        <li><a href="javascript:void(0)">Real Estate</a></li>
+                        <li><a href="javascript:void(0)">eCommerce</a></li>
+                        <li><a href="javascript:void(0)">Education</a></li>
+                        <li><a href="javascript:void(0)">Oil & Gas</a></li>
+                        <li><a href="javascript:void(0)">Tour and Travel</a></li>
+                    </ul>
+                </div>
 <!--                <div class="col footer-head">-->
 <!--                    <h5>Portfolio</h5>-->
 <!--                    <ul class="footer-links-list">-->
