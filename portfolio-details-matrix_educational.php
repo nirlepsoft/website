@@ -1,7 +1,7 @@
 <?php include('header.php'); ?>
 
 	   <!-- Header title -->
-<section class="header-title head-opacity" data-background="images/portfolio/Redken-Education-new.png">
+<section class="header-title head-opacity" data-background="images/portfolio/Matrix-Education.png">
 	<div class="container">
 	   <div class="row">
 		  <div class="col-lg-6">
@@ -33,7 +33,7 @@
 				<div class="col-lg-6">
 					<div class="details-port">
 						<h2 class="mb15">About Web Application</h2>
-						<p>The main objective was to enhance E-learning experience to increase participation rate.</p>
+						<p>The website's objective is to enhance E-learning management content management using one stop application.</p>
 					</div>
 				</div>
 
@@ -83,24 +83,23 @@
 				<div class="row col-lg-12 m-mb30 justify">
 					<div>
 						 <h3>Background</h3>
-						 <p class="mt15">The client wanted to improve E-learning experience and make learning a funful event.
+						 <p class="mt15">The client wanted to improve E-learning experience with better content managment within one toolset.
 						 </p>
 					</div>
 					<div>
 						 <h3 class="mt15">Challenge</h3>
 						 <p class="mt15">Our key challenges were to help client create relevant content using CMS to implement a robust
-							 Learning Management System (LMS). We were tasked with finding content to make learning an interesting event
-						 keeping in mind to not sway from the intended purpose of learning.</p>
+							 Learning Management System (LMS) for progress tracking and establishing certification validity through industry
+							 collaborations in developing an effective e-learning platform</p>
 					</div>
 					<div>
 						 <h3 class="mt15" >The Solution</h3>
 						 <p class="mt15" > To address the problem statement give to us we implemented following to help our client for better engagement:
 						</p>
 						<div class="row col-lg-12">
-							<h6 class="mt15">Finding right content:</h6>
-							<p>When searching for e-learning content in the cosmetic industry, we explored e-learning marketplaces, custom development,
-								industry associations, open educational resources, YouTube, blogs, online forums, and communities. This diverse approach
-								allowed us to access a wide range of resources, from structured courses to industry insights from experts.
+							<h6 class="mt15">Better Content managemnt:</h6>
+							<p>Our approach involves developing customized content manager for cosmatic and hair grooming tutorials and videos. In addition,
+								we implemented authorization for contentcreation to manage roles.
 							</p>
 							<h6 class="mt15">Scalability:</h6>
 							<p>To manage higher traffic during the training sessions we designed the system for scalability, utilizing cloud-based infrastructure
@@ -114,8 +113,7 @@
 					</div>
 					<div>
 						 <h3 class="mt15" >The Result</h3>
-						 <p class="mt15">With the new features, our client saw roughly <b>35% jump in engagement</b> and <b>20% increase in participation</b> in
-							 first 2 quarters.
+						 <p class="mt15">With our help, our client was able to <b>save about 21% of time</b> that was spent to manage contents for learning.
 						 </p>
 					</div>
 				</div>
@@ -123,7 +121,7 @@
 					<div class="col-lg-6">
 						<div class="center-btn big-txt">
 							<a href="portfolio-details-Loreal-Professionnel.php" class="ree-btn  ree-btn-grdt2"><i class="fas fa-arrow-left fa-btn mr5"></i> Previous Project </a>
-							<a href="portfolio-details-matrix_educational.php" class="ree-btn  ree-btn-grdt2"> Next Project <i class="fas fa-arrow-right fa-btn"></i></a>
+							<a href="#" class="ree-btn  ree-btn-grdt2"> Next Project <i class="fas fa-arrow-right fa-btn"></i></a>
 
 						</div>
 					</div>
