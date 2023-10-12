@@ -424,7 +424,7 @@ if (isset($_REQUEST['submit'])){
             <div class="col-lg-8">
                 <div class="sec-heading text-center pera-block">
                     <h2><span class="ree-text rt40">Technologies</span> we work with</h2>
-                    <p>we work with a wide range of technologies, including programming languages like Python, Java, and JavaScript, cloud computing platforms such as AWS and Azure, database management systems like MySQL and MongoDB, and frameworks like React and Angular to develop cutting-edge software solutions for our clients.</p>
+                    <p>we work with a wide range of technologies, including programming languages like Python, PHP, and JavaScript, cloud computing platforms such as AWS and Azure, database management systems like MySQL and MongoDB, and frameworks like Vue, React and Angular to develop cutting-edge software solutions for our clients.</p>
                 </div>
             </div>
         </div>
@@ -1309,21 +1309,21 @@ if (isset($_REQUEST['submit'])){
                     </div>
                 </div>
             </div>
-            <!--          <div class="col-lg-4">-->
-            <!--            <div class="location-block- mt60">-->
-            <!--              <div class="loc-icon-nam">-->
-            <!--                <img src="images/icons/burj-al-arab.svg" alt="burj-al-arab">-->
-            <!--                <p><span class="ree-text rt40">Dubai</span></p>-->
-            <!--              </div>-->
-            <!--              <p class="pt20 pb20">Tom Extension, 1st Block 2nd Cross, Yello round circle, Jaipur, Rajasthan 123456</p>-->
-            <!--              <div class="loc-contct">-->
-            <!--                <a href="javascript:void(0)" target="blank" class="btn-outline rount-btn" data-toggle="tooltip" title="Map Location"><i class="fas fa-map-marker-alt"></i></a>-->
-            <!--                <a href="javascript:void(0)" target="blank" class="btn-outline rount-btn" data-toggle="tooltip" title="Phone Number"><i class="fas fa-phone-alt"></i></a>-->
-            <!--                <a href="javascript:void(0)" target="blank" class="btn-outline rount-btn" data-toggle="tooltip" title="Email Address"><i class="fas fa-envelope"></i></a>-->
-            <!--                <a href="javascript:void(0)" target="blank" class="btn-outline rount-btn" data-toggle="tooltip" title="Skype Id"><i class="fab fa-skype"></i></a>-->
-            <!--              </div>-->
-            <!--            </div>-->
-            <!--          </div>-->
+                      <div class="col-lg-4">
+                        <div class="location-block- mt60">
+                          <div class="loc-icon-nam">
+                            <img src="images/icons/big-ben.svg" alt="burj-al-arab">
+                            <p><span class="ree-text rt40">UK</span></p>
+                          </div>
+                          <p class="pt20 pb20">43 Shaftesbury Road, E7 8PF, London, United Kingdom</p>
+                          <div class="loc-contct">
+                            <a href="javascript:void(0)" target="blank" class="btn-outline rount-btn" data-toggle="tooltip" title="Map Location"><i class="fas fa-map-marker-alt"></i></a>
+                            <a href="javascript:void(0)" target="blank" class="btn-outline rount-btn" data-toggle="tooltip" title="Phone Number"><i class="fas fa-phone-alt"></i></a>
+                            <a href="javascript:void(0)" target="blank" class="btn-outline rount-btn" data-toggle="tooltip" title="Email Address"><i class="fas fa-envelope"></i></a>
+                            <a href="javascript:void(0)" target="blank" class="btn-outline rount-btn" data-toggle="tooltip" title="Skype Id"><i class="fab fa-skype"></i></a>
+                          </div>
+                        </div>
+                      </div>
             <!--          <div class="col-lg-4">-->
             <!--            <div class="location-block- mt60">-->
             <!--              <div class="loc-icon-nam">-->
