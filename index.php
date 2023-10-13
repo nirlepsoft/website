@@ -323,7 +323,7 @@ if (isset($_REQUEST['submit'])){
                 <div class="full-work-block  owl-carousel">
                     <div class="fwb-main-x fwb-a">
                         <div class="work-thumbnails">
-                            <a href="#"><img src="images/portfolio/linwood-forest.png" alt="portfolio reevan"
+                            <a href="#"><img src="images/portfolio/linwood-forest.avif" alt="portfolio byte weavers"
                                              class="img-fluid"> </a>
                         </div>
 <!--                        <div class="work-details">-->
@@ -333,7 +333,7 @@ if (isset($_REQUEST['submit'])){
                     </div>
                     <div class="fwb-main-x fwb-a">
                         <div class="work-thumbnails">
-                            <a href="#"> <img src="images/portfolio/Redken-Education-new.png" alt="portfolio reevan"
+                            <a href="#"> <img src="images/portfolio/Redken-Education-new.avif" alt="portfolio byte weavers"
                                               class="img-fluid"> </a>
                         </div>
 <!--                        <div class="work-details">-->
@@ -343,7 +343,7 @@ if (isset($_REQUEST['submit'])){
                     </div>
                     <div class="fwb-main-x fwb-a">
                         <div class="work-thumbnails">
-                            <a href="#"> <img src="images/portfolio/Matrix-Education.png" alt="portfolio reevan"
+                            <a href="#"> <img src="images/portfolio/Matrix-Education.avif" alt="portfolio byte weavers"
                                               class="img-fluid"> </a>
                         </div>
 <!--                        <div class="work-details">-->
@@ -353,7 +353,7 @@ if (isset($_REQUEST['submit'])){
                     </div>
                     <div class="fwb-main-x fwb-a">
                         <div class="work-thumbnails">
-                            <a href="#"> <img src="images/portfolio/TRACE-point.png" alt="portfolio reevan"
+                            <a href="#"> <img src="images/portfolio/TRACE-point.avif" alt="portfolio byte weavers"
                                               class="img-fluid"> </a>
                         </div>
 <!--                        <div class="work-details">-->
@@ -363,7 +363,7 @@ if (isset($_REQUEST['submit'])){
                     </div>
                     <div class="fwb-main-x fwb-a">
                         <div class="work-thumbnails">
-                            <a href="#"> <img src="images/portfolio/L’Oréal-Professionnel-Education.png" alt="portfolio reevan"
+                            <a href="#"> <img src="images/portfolio/L’Oréal-Professionnel-Education.avif" alt="portfolio byte weavers"
                                               class="img-fluid"> </a>
                         </div>
                         <!--                        <div class="work-details">-->
@@ -373,7 +373,7 @@ if (isset($_REQUEST['submit'])){
                     </div>
                     <div class="fwb-main-x fwb-a">
                         <div class="work-thumbnails">
-                            <a href="#"> <img src="images/portfolio/Deep.png" alt="portfolio reevan"
+                            <a href="#"> <img src="images/portfolio/Deep.png" alt="portfolio byte weavers"
                                               class="img-fluid"> </a>
                         </div>
                         <!--                        <div class="work-details">-->
@@ -383,7 +383,7 @@ if (isset($_REQUEST['submit'])){
                     </div>
                     <div class="fwb-main-x fwb-a">
                         <div class="work-thumbnails">
-                            <a href="#"> <img src="images/portfolio/Wed•Set•Go-Wed•Set•Go.png" alt="portfolio reevan"
+                            <a href="#"> <img src="images/portfolio/Wed•Set•Go-Wed•Set•Go.avif" alt="portfolio byte weavers"
                                               class="img-fluid"> </a>
                         </div>
                         <!--                        <div class="work-details">-->
@@ -393,7 +393,7 @@ if (isset($_REQUEST['submit'])){
                     </div>
                     <div class="fwb-main-x fwb-a">
                         <div class="work-thumbnails">
-                            <a href="#"> <img src="images/portfolio/Road-Race-Bike-Rental-Bike-Hire-Near-Me-Cycle-On-Rent-High-End-Road-Bike-Rental-New-York-Nyc-Roula.png" alt="portfolio reevan"
+                            <a href="#"> <img src="images/portfolio/Road-Race-Bike-Rental-Bike-Hire-Near-Me-Cycle-On-Rent-High-End-Road-Bike-Rental-New-York-Nyc-Roula.avif" alt="portfolio byte weavers"
                                               class="img-fluid"> </a>
                         </div>
                         <!--                        <div class="work-details">-->
@@ -403,7 +403,7 @@ if (isset($_REQUEST['submit'])){
                     </div>
                     <div class="fwb-main-x fwb-a">
                         <div class="work-thumbnails">
-                            <a href="#"> <img src="images/portfolio/It-s-Paint-Party-LLC.png" alt="portfolio reevan"
+                            <a href="#"> <img src="images/portfolio/It-s-Paint-Party-LLC.avif" alt="portfolio byte weavers"
                                               class="img-fluid"> </a>
                         </div>
                         <!--                        <div class="work-details">-->
