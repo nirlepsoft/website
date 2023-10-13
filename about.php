@@ -15,7 +15,7 @@
 
 				<div class="col-lg-6">
 					<div class="sol-img m-mt30">
-						<img src="images/others/binary.avif" alt="Byte Weavers" class="img-fluid" data-aos="fade-in" data-aos-delay="400">
+						<img src="images/others/logo_brand.jpg" alt="Byte Weavers" class="img-fluid" data-aos="fade-in" data-aos-delay="400">
 					</div>
 				</div>
 			</div>

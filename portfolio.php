@@ -95,7 +95,7 @@
                     <div class="work-details-center">
                         <!-- <p class="mb10">UX, UI, Design, Development</p> -->
                         <a href="portfolio-details-paint.php"> <h4> Paint party organizer </h4></a>
-                        <a href="https://byte-weavers.com/paint/" class="ree-btn-no-inline  ree-btn-grdt1 mt10 mw-10">Demo <i
+                        <a href="https://byte-weavers.com/paint/" class="ree-btn-portfolio ree-btn-grdt1 mt10">Demo <i
                                     class="fas fa-arrow-right fa-btn"></i></a>
                     </div>
                 </div>
@@ -109,7 +109,7 @@
                     <div class="work-details-center">
                         <!-- <p class="mb10">UX, UI, Graphic Design</p> -->
                         <a href="portfolio-details-trace_point.php"> <h4> Self learning </h4></a>
-                        <a href="https://byte-weavers.com/tracepoint/" class="ree-btn-no-inline ree-btn-grdt1  mt10 mw-10">Demo <i
+                        <a href="https://byte-weavers.com/tracepoint/" class="ree-btn-portfolio ree-btn-grdt1 mt10">Demo <i
                                     class="fas fa-arrow-right fa-btn"></i></a>
                     </div>
                 </div>
@@ -123,7 +123,7 @@
                     <div class="work-details-center">
                         <!-- <p class="mb10">UX, UI, Graphic Design</p> -->
                         <a href="#"> <h4> For & by community </h4></a>
-                        <a href="contact-us.php" class="ree-btn-no-inline  ree-btn-grdt1 mt10 mw-10">Contact us <i
+                        <a href="contact-us.php" class="ree-btn-portfolio ree-btn-grdt1 mt10">Contact us <i
                                     class="fas fa-arrow-right fa-btn"></i></a>
                     </div>
                 </div>
@@ -138,7 +138,7 @@
                     <div class="work-details-center">
                         <!-- <p class="mb10">UX, UI, Graphic Design</p> -->
                         <a href="portfolio-details-kerastase.php"> <h4> E-learning manager</h4></a>
-                        <a href="contact-us.php" class="ree-btn-no-inline  ree-btn-grdt1 mt10 mw-10">Contact us <i
+                        <a href="contact-us.php" class="ree-btn-portfolio ree-btn-grdt1 mt10">Contact us <i
                                     class="fas fa-arrow-right fa-btn"></i></a>
                     </div>
                 </div>
@@ -152,7 +152,7 @@
                     <div class="work-details-center">
                         <!-- <p class="mb10">UX, UI, Graphic Design</p> -->
                         <a href="portfolio-details-Loreal-Professionnel.php"> <h4> E-learning manager</h4></a>
-                        <a href="contact-us.php" class="ree-btn-no-inline  ree-btn-grdt1 mt10 mw-10">Contact us <i
+                        <a href="contact-us.php" class="ree-btn-portfolio ree-btn-grdt1 mt10">Contact us <i
                                     class="fas fa-arrow-right fa-btn"></i></a>
                     </div>
                 </div>
@@ -166,7 +166,7 @@
                     <div class="work-details-center">
                         <!-- <p class="mb10">UX, UI, Graphic Design</p> -->
                         <a href="portfolio-details-redken.php"> <h4> E-Learning manager</h4></a>
-                        <a href="contact-us.php" class="ree-btn-no-inline  ree-btn-grdt1 mt10 mw-10">Contact us <i
+                        <a href="contact-us.php" class="ree-btn-portfolio ree-btn-grdt1 mt10">Contact us <i
                                     class="fas fa-arrow-right fa-btn"></i></a>
                     </div>
                 </div>
@@ -179,7 +179,7 @@
                     <div class="work-details-center">
                         <!-- <p class="mb10">UX, UI, Graphic Design</p> -->
                         <a href="portfolio-details-trace_point.php"> <h4> E-learning manager</h4></a>
-                        <a href="contact-us.php" class="ree-btn-no-inline  ree-btn-grdt1 mt10 mw-10">Contact us <i
+                        <a href="contact-us.php" class="ree-btn-portfolio ree-btn-grdt1 mt10">Contact us <i
                                     class="fas fa-arrow-right fa-btn"></i></a>
                     </div>
                 </div>
@@ -191,7 +191,9 @@
                     </div>
                     <div class="work-details-center">
                         <!-- <p class="mb10">UX, UI, Graphic Design</p> -->
-                        <a href="#"> <h4> Client manager </h4></a>
+                        <h4> Client manager </h4>
+                        <a href="contact-us.php" class="ree-btn-portfolio ree-btn-grdt1 mt10">Contact us <i
+                                    class="fas fa-arrow-right fa-btn"></i></a>
                     </div>
                 </div>
             </div>
@@ -203,7 +205,7 @@
                     <div class="work-details-center">
                         <!-- <p class="mb10">UX, UI, Graphic Design</p> -->
                         <h4> Insurance service </h4></a>
-                        <a href="contact-us.php" class="ree-btn-no-inline  ree-btn-grdt1 mt10 mw-10">Contact us <i
+                        <a href="contact-us.php" class="ree-btn-portfolio ree-btn-grdt1 mt10">Contact us <i
                                     class="fas fa-arrow-right fa-btn"></i></a>
                     </div>
                 </div>
@@ -216,7 +218,7 @@
                     <div class="work-details-center">
                         <!-- <p class="mb10">UX, UI, Graphic Design</p> -->
                         <h4> Wedding organizer </h4>
-                        <a href="contact-us.php" class="ree-btn-no-inline  ree-btn-grdt1 mt10 mw-10">Contact us <i
+                        <a href="contact-us.php" class="ree-btn-portfolio ree-btn-grdt1 mt10">Contact us <i
                                     class="fas fa-arrow-right fa-btn"></i></a>
                     </div>
                 </div>
@@ -229,7 +231,7 @@
                     <div class="work-details-center">
                         <!-- <p class="mb10">UX, UI, Graphic Design</p> -->
                         <h4> Sightseeing bike tour </h4>
-                        <a href="contact-us.php" class="ree-btn-no-inline  ree-btn-grdt1 mt10 mw-10">Contact us <i
+                        <a href="contact-us.php" class="ree-btn-portfolio ree-btn-grdt1 mt10">Contact us <i
                                     class="fas fa-arrow-right fa-btn"></i></a>
                     </div>
                 </div>
@@ -242,7 +244,7 @@
                     <div class="work-details-center">
                         <!-- <p class="mb10">UX, UI, Graphic Design</p> -->
                         <h4> Home caregiver </h4>
-                        <a href="contact-us.php" class="ree-btn-no-inline  ree-btn-grdt1 mt10 mw-10">Contact us <i
+                        <a href="contact-us.php" class="ree-btn-portfolio ree-btn-grdt1 mt10">Contact us <i
                                     class="fas fa-arrow-right fa-btn"></i></a>
                     </div>
                 </div>

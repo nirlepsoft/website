@@ -3034,3 +3034,14 @@ html body .header-bhv.sticky .mini-header-bar{ max-height: 0px;   min-height: 0p
   text-decoration: none; /* Remove underline */
   margin: 0 10px; /* Add spacing between links (adjust as needed) */
 }
+
+.ree-btn-portfolio{
+    font-weight: 500;
+    font-size: 17px;
+    color: #fff;
+    border-radius: 100px;
+    padding: 0 20px;
+    display: inline-block;
+    line-height: 35px;
+    white-space: nowrap;
+}

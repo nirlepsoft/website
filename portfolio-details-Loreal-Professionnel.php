@@ -37,42 +37,58 @@
 					</div>
 				</div>
 
-					<div class="col-lg-6">
-						<div class="technolo-sec">
-							<div class="icon-with-title">
-								<a href="javascript:void(0)">
-									<div class="iwt-icon"> <img src="images/icons/laravel.png" alt="Laravel"> </div>
-									<div class="iwt-content">
-										<p>Laravel</p>
-									</div>
-								</a>
-							</div>
-							<div class="icon-with-title">
-								<a href="javascript:void(0)">
-									<div class="iwt-icon"> <img src="images/icons/php.png" alt="PHP"> </div>
-									<div class="iwt-content">
-										<p>PHP</p>
-									</div>
-								</a>
-							</div>
-							<div class="icon-with-title">
-								<a href="javascript:void(0)">
-									<div class="iwt-icon"> <img src="images/icons/sqs.png" alt="SQS"> </div>
-									<div class="iwt-content">
-										<p>SQS</p>
-									</div>
-								</a>
-							</div>
-							<div class="icon-with-title">
-								<a href="javascript:void(0)">
-									<div class="iwt-icon"> <img src="images/icons/mysql.svg" alt="MySql"> </div>
-									<div class="iwt-content">
-										<p>MySql</p>
-									</div>
-								</a>
-							</div>
-						</div>
-					</div>
+                <div class="col-lg-6">
+                    <div class="technolo-sec">
+                        <div class="icon-with-title">
+                            <a href="javascript:void(0)">
+                                <div class="iwt-icon"> <img src="images/icons/codeigniter.png" alt="codeigniter"> </div>
+                                <div class="iwt-content">
+                                    <p>Codeigniter</p>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="icon-with-title">
+                            <a href="javascript:void(0)">
+                                <div class="iwt-icon"> <img src="images/icons/php.png" alt="PHP"> </div>
+                                <div class="iwt-content">
+                                    <p>PHP</p>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="icon-with-title">
+                            <a href="javascript:void(0)">
+                                <div class="iwt-icon"> <img src="images/icons/mysql.svg" alt="MySql"> </div>
+                                <div class="iwt-content">
+                                    <p>MySql</p>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="icon-with-title">
+                            <a href="javascript:void(0)">
+                                <div class="iwt-icon"> <img src="images/icons/html-5.svg" alt="HTML5"> </div>
+                                <div class="iwt-content">
+                                    <p>HTML5</p>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="icon-with-title">
+                            <a href="javascript:void(0)">
+                                <div class="iwt-icon"> <img src="images/icons/jquery.svg" alt="jQuery"> </div>
+                                <div class="iwt-content">
+                                    <p>jQuery</p>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="icon-with-title">
+                            <a href="javascript:void(0)">
+                                <div class="iwt-icon"> <img src="images/icons/bootstrap.svg" alt="Bootstrap"> </div>
+                                <div class="iwt-content">
+                                    <p>Bootstrap</p>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
 				</div>
 			</div>
 	</section>
