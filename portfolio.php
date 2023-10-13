@@ -138,7 +138,7 @@
                     <div class="work-details-center">
                         <!-- <p class="mb10">UX, UI, Graphic Design</p> -->
                         <a href="portfolio-details-kerastase.php"> <h4> E-learning manager</h4></a>
-                        <a href="contact-us.php" class="ree-btn-portfolio ree-btn-grdt1 mt10">Contact us <i
+                        <a href="https://byte-weavers.com/kera" class="ree-btn-portfolio ree-btn-grdt1 mt10">Demo <i
                                     class="fas fa-arrow-right fa-btn"></i></a>
                     </div>
                 </div>
@@ -152,7 +152,7 @@
                     <div class="work-details-center">
                         <!-- <p class="mb10">UX, UI, Graphic Design</p> -->
                         <a href="portfolio-details-Loreal-Professionnel.php"> <h4> E-learning manager</h4></a>
-                        <a href="contact-us.php" class="ree-btn-portfolio ree-btn-grdt1 mt10">Contact us <i
+                        <a href="https://byte-weavers.com/loreal" class="ree-btn-portfolio ree-btn-grdt1 mt10">Demo <i
                                     class="fas fa-arrow-right fa-btn"></i></a>
                     </div>
                 </div>
@@ -166,7 +166,7 @@
                     <div class="work-details-center">
                         <!-- <p class="mb10">UX, UI, Graphic Design</p> -->
                         <a href="portfolio-details-redken.php"> <h4> E-Learning manager</h4></a>
-                        <a href="contact-us.php" class="ree-btn-portfolio ree-btn-grdt1 mt10">Contact us <i
+                        <a href="https://byte-weavers.com/redken" class="ree-btn-portfolio ree-btn-grdt1 mt10">Demo <i
                                     class="fas fa-arrow-right fa-btn"></i></a>
                     </div>
                 </div>
@@ -179,7 +179,7 @@
                     <div class="work-details-center">
                         <!-- <p class="mb10">UX, UI, Graphic Design</p> -->
                         <a href="portfolio-details-trace_point.php"> <h4> E-learning manager</h4></a>
-                        <a href="contact-us.php" class="ree-btn-portfolio ree-btn-grdt1 mt10">Contact us <i
+                        <a href="https://byte-weavers.com/matrix" class="ree-btn-portfolio ree-btn-grdt1 mt10">Demo <i
                                     class="fas fa-arrow-right fa-btn"></i></a>
                     </div>
                 </div>
@@ -192,7 +192,7 @@
                     <div class="work-details-center">
                         <!-- <p class="mb10">UX, UI, Graphic Design</p> -->
                         <h4> Client manager </h4>
-                        <a href="contact-us.php" class="ree-btn-portfolio ree-btn-grdt1 mt10">Contact us <i
+                        <a href="https://byte-weavers.com/crm" class="ree-btn-portfolio ree-btn-grdt1 mt10">Demo<i
                                     class="fas fa-arrow-right fa-btn"></i></a>
                     </div>
                 </div>
