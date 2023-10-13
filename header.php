@@ -6,7 +6,7 @@ if($fileName == 'contact-us.php') {
 }
 ?>
 <!DOCTYPE html>
-<html lang="zxx" class="no-js">
+<html lang="eng" class="no-js">
 <head>
     <meta charset="utf-8" />
     <title>Byte Weavers Web Design and Development Agency</title>
@@ -22,7 +22,6 @@ if($fileName == 'contact-us.php') {
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/plugin.min.css" rel="stylesheet">
     <link href="css/all.min.css" rel="stylesheet">
-    <link rel="preconnect" href="https://fonts.gstatic.com">
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
     <!-- Template-style-->
