@@ -42,16 +42,17 @@ use PHPMailer\PHPMailer\PHPMailer;
                   
 ";
 
-        $mail->SMTPDebug = 0;
         $mail->isSMTP();
-        $mail->Host       = 'sandbox.smtp.mailtrap.io;';
+        $mail->SMTPDebug = 0;
         $mail->SMTPAuth   = true;
-        $mail->Username   = '42c381f4dca016';
-        $mail->Password   = '307dfd15d309ac';
-        $mail->SMTPSecure = 'tls';
+        //$mail->SMTPSecure = 'ssl';
+        $mail->Host       = 'smtp.gmail.com';
+        $mail->Username   = 'weaversbyte@gmail.com';
+        $mail->Password   = 'rfkf dgpg gpsc lidd';
+
         $mail->Port       = 587;
 
-        $mail->setFrom('nirlep.soft@gmail.com', 'Byte Weavers');
+        $mail->setFrom('sales@byte-weavers.com', 'Byte Weavers');
         $mail->addAddress('nirlep.soft@gmail.com', 'chintan patel');
 
         $mail->isHTML(true);

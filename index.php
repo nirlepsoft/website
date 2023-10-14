@@ -42,16 +42,16 @@ if (isset($_REQUEST['submit'])){
                   
 ";
 
-    $mail->SMTPDebug = 0;
     $mail->isSMTP();
-    $mail->Host       = 'sandbox.smtp.mailtrap.io;';
+    $mail->SMTPDebug = 0;
     $mail->SMTPAuth   = true;
-    $mail->Username   = '42c381f4dca016';
-    $mail->Password   = '307dfd15d309ac';
-    $mail->SMTPSecure = 'tls';
+    //$mail->SMTPSecure = 'ssl';
+    $mail->Host       = 'smtp.gmail.com';
+    $mail->Username   = 'weaversbyte@gmail.com';
+    $mail->Password   = 'rfkf dgpg gpsc lidd';
     $mail->Port       = 587;
 
-    $mail->setFrom('nirlep.soft@gmail.com', 'Byte Weavers');
+    $mail->setFrom('sales@byte-weavers.com', 'Byte Weavers');
     $mail->addAddress('nirlep.soft@gmail.com', 'chintan patel');
 
     $mail->isHTML(true);
@@ -1248,15 +1248,12 @@ if (isset($_REQUEST['submit'])){
                                     </div>
                                     <div class="col-md-6">
                                         <select name="inquiryFor" required>
-                                            <option>interested in</option>
-                                            <option>Web Design</option>
-                                            <option>Graphic Design</option>
-                                            <option>App Development</option>
-                                            <option>E-commerce Development</option>
-                                            <option>Digital Marketing</option>
-                                            <option>Business Growth</option>
-                                            <option>Business Startup</option>
-                                            <option>Other...</option>
+                                            <option value="">interested in</option>
+                                            <option value="Web Design">Web Design</option>
+                                            <option value="Graphic Design">Graphic Design</option>
+                                            <option value="App Development">App Development</option>
+                                            <option value="Website Development">Website Development</option>
+                                            <option value="other">Others</option>
                                         </select>
                                     </div>
                                 </div>
