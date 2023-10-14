@@ -262,7 +262,7 @@
             <div class="col-lg-4 col-md-6  col-sm-6 mt30">
                 <div class="fwb-main-x fwb-a">
                     <div class="work-thumbnails">
-                        <a href="contact-us.php"> <img src="images/portfolio/CNA-NetNurse.avif"
+                        <a href="contact-us.php"> <img src="images/portfolio/CNA-NetNurse.png"
                                                        alt="portfolio Byte Weavers" class="img-fluid"></a>
                     </div>
                     <div class="work-details-center">
