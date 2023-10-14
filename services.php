@@ -333,8 +333,8 @@
 						<div class="cta-heading">
 							<span class="sub-heading mb15">Contact Us</span>
 							<h2>Have a <span class="ree-text rt40">project</span> in mind? Let's get to chat.</h2>
-							<a href="get-quote.html" class="ree-btn  ree-btn-grdt1  mt40 mr20"><i class="fas fa-phone-alt fb-bigon"></i> Contact </a>
-							<a href="http://wa.me/+911234567890" class="ree-btn  whatsapp-bg mt40" target="_blank"><i class="fab fa-whatsapp fb-bigon"></i> Whatsapp </a>
+							<a href="contact-us.php" class="ree-btn  ree-btn-grdt1  mt40 mr20"><i class="fas fa-phone-alt fb-bigon"></i> Contact </a>
+							<a href="http://wa.me/+919998004908" class="ree-btn  whatsapp-bg mt40" target="_blank"><i class="fab fa-whatsapp fb-bigon"></i> Whatsapp </a>
 
 						</div>
 					</div>

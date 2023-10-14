@@ -90,7 +90,7 @@
             <div class="col-lg-4 col-md-6  col-sm-6 mt30">
                 <div class="fwb-main-x fwb-a">
                     <div class="work-thumbnails">
-                        <a href="portfolio-details-paint.php"> <img src="images/portfolio/It-s-Paint-Party-LLC.png" alt="portfolio Byte Weavers" class="img-fluid"></a>
+                        <a href="portfolio-details-paint.php"> <img src="images/portfolio/It-s-Paint-Party-LLC.avif" alt="portfolio Byte Weavers" class="img-fluid"></a>
                     </div>
                     <div class="work-details-center">
                         <!-- <p class="mb10">UX, UI, Design, Development</p> -->
@@ -118,7 +118,7 @@
             <div class="col-lg-4 col-md-6  col-sm-6 mt30">
                 <div class="fwb-main-x fwb-a">
                     <div class="work-thumbnails">
-                        <a href="#"><img src="images/portfolio/Deep.png" alt="portfolio Byte Weavers" class="img-fluid"></a>
+                        <a href="#"><img src="images/portfolio/Deep.avif" alt="portfolio Byte Weavers" class="img-fluid"></a>
                     </div>
                     <div class="work-details-center">
                         <!-- <p class="mb10">UX, UI, Graphic Design</p> -->
@@ -133,7 +133,7 @@
             <div class="col-lg-4 col-md-6  col-sm-6 mt30">
                 <div class="fwb-main-x fwb-a">
                     <div class="work-thumbnails">
-                        <a href="portfolio-details-kerastase.php"> <img src="images/portfolio/Kérastase-Education.png" alt="portfolio Byte Weavers" class="img-fluid"></a>
+                        <a href="portfolio-details-kerastase.php"> <img src="images/portfolio/Kérastase-Education.avif" alt="portfolio Byte Weavers" class="img-fluid"></a>
                     </div>
                     <div class="work-details-center">
                         <!-- <p class="mb10">UX, UI, Graphic Design</p> -->
@@ -147,7 +147,7 @@
             <div class="col-lg-4 col-md-6  col-sm-6 mt30">
                 <div class="fwb-main-x fwb-a">
                     <div class="work-thumbnails">
-                        <a href="portfolio-details-Loreal-Professionnel.php"> <img src="images/portfolio/L’Oréal-Professionnel-Education.png" alt="portfolio Byte Weavers" class="img-fluid"></a>
+                        <a href="portfolio-details-Loreal-Professionnel.php"> <img src="images/portfolio/L’Oréal-Professionnel-Education.avif" alt="portfolio Byte Weavers" class="img-fluid"></a>
                     </div>
                     <div class="work-details-center">
                         <!-- <p class="mb10">UX, UI, Graphic Design</p> -->
@@ -161,7 +161,7 @@
             <div class="col-lg-4 col-md-6  col-sm-6 mt30">
                 <div class="fwb-main-x fwb-a">
                     <div class="work-thumbnails">
-                        <a href="portfolio-details-redken.php"><img src="images/portfolio/Redken-Education-new.png" alt="portfolio Byte Weavers" class="img-fluid"></a>
+                        <a href="portfolio-details-redken.php"><img src="images/portfolio/Redken-Education-new.avif" alt="portfolio Byte Weavers" class="img-fluid"></a>
                     </div>
                     <div class="work-details-center">
                         <!-- <p class="mb10">UX, UI, Graphic Design</p> -->
@@ -174,7 +174,7 @@
             <div class="col-lg-4 col-md-6  col-sm-6 mt30">
                 <div class="fwb-main-x fwb-a">
                     <div class="work-thumbnails">
-                        <a href="portfolio-details-matrix_educational.php"><img src="images/portfolio/Matrix-Education.png" alt="portfolio Byte Weavers" class="img-fluid"></a>
+                        <a href="portfolio-details-matrix_educational.php"><img src="images/portfolio/Matrix-Education.avif" alt="portfolio Byte Weavers" class="img-fluid"></a>
                     </div>
                     <div class="work-details-center">
                         <!-- <p class="mb10">UX, UI, Graphic Design</p> -->
@@ -200,7 +200,7 @@
             <div class="col-lg-4 col-md-6  col-sm-6 mt30">
                 <div class="fwb-main-x fwb-a">
                     <div class="work-thumbnails">
-                        <a href="contact-us.php"> <img src="images/portfolio/linwood-forest.png" alt="portfolio Byte Weavers" class="img-fluid"></a>
+                        <a href="contact-us.php"> <img src="images/portfolio/linwood-forest.avif" alt="portfolio Byte Weavers" class="img-fluid"></a>
                     </div>
                     <div class="work-details-center">
                         <!-- <p class="mb10">UX, UI, Graphic Design</p> -->
@@ -213,7 +213,7 @@
             <div class="col-lg-4 col-md-6  col-sm-6 mt30">
                 <div class="fwb-main-x fwb-a">
                     <div class="work-thumbnails">
-                        <a href="contact-us.php"> <img src="images/portfolio/Wed•Set•Go-Wed•Set•Go.png" alt="portfolio Byte Weavers" class="img-fluid"></a>
+                        <a href="contact-us.php"> <img src="images/portfolio/Wed•Set•Go-Wed•Set•Go.avif" alt="portfolio Byte Weavers" class="img-fluid"></a>
                     </div>
                     <div class="work-details-center">
                         <!-- <p class="mb10">UX, UI, Graphic Design</p> -->
@@ -226,7 +226,7 @@
             <div class="col-lg-4 col-md-6  col-sm-6 mt30">
                 <div class="fwb-main-x fwb-a">
                     <div class="work-thumbnails">
-                        <a href="contact-us.php"> <img src="images/portfolio/Road-Race-Bike-Rental-Bike-Hire-Near-Me-Cycle-On-Rent-High-End-Road-Bike-Rental-New-York-Nyc-Roula.png" alt="portfolio Byte Weavers" class="img-fluid"></a>
+                        <a href="contact-us.php"> <img src="images/portfolio/Road-Race-Bike-Rental-Bike-Hire-Near-Me-Cycle-On-Rent-High-End-Road-Bike-Rental-New-York-Nyc-Roula.avif" alt="portfolio Byte Weavers" class="img-fluid"></a>
                     </div>
                     <div class="work-details-center">
                         <!-- <p class="mb10">UX, UI, Graphic Design</p> -->
@@ -239,7 +239,7 @@
             <div class="col-lg-4 col-md-6  col-sm-6 mt30">
                 <div class="fwb-main-x fwb-a">
                     <div class="work-thumbnails">
-                        <a href="contact-us.php"> <img src="images/portfolio/CNA-NetNurse.png" alt="portfolio Byte Weavers" class="img-fluid"></a>
+                        <a href="contact-us.php"> <img src="images/portfolio/CNA-NetNurse.avif" alt="portfolio Byte Weavers" class="img-fluid"></a>
                     </div>
                     <div class="work-details-center">
                         <!-- <p class="mb10">UX, UI, Graphic Design</p> -->
