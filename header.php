@@ -73,7 +73,7 @@ if($fileName == 'contact-us.php') {
             </div>
             <div class="mobile-menu2">
                 <ul class="mob-nav2">
-                    <li><a href="get-quote.html" class="ree-btn2 ree-btn-grdt1"><i class="fas fa-envelope-open-text"></i></a></li>
+                    <li><a href="contact-us.php" class="ree-btn2 ree-btn-grdt1"><i class="fas fa-envelope-open-text"></i></a></li>
                     <li class="navm-"><a class="toggle" href="#"> <span></span> </a> </li>
                 </ul>
             </div>

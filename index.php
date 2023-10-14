@@ -73,7 +73,7 @@ if (isset($_REQUEST['submit'])){
                     <p data-aos="fade-in" data-aos-delay="500">Boost your digital presence with a Company led by
                         engineers with 15+ years of expertise. Let us help you transform your business.
                     </p>
-                    <a href="get-quote.html" class="ree-btn  ree-btn-grdt1 mt40 mw-80">Let's Talk <i
+                    <a href="contact-us.php" class="ree-btn  ree-btn-grdt1 mt40 mw-80">Let's Talk <i
                                 class="fas fa-arrow-right fa-btn"></i></a>
                 </div>
             </div>

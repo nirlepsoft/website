@@ -81,7 +81,7 @@ use PHPMailer\PHPMailer\PHPMailer;
 									<div class="ree-row-set">
 										<div class="ree-icon-set dtb-icon"> <i class="fas fa-phone-alt"></i>	</div>
 										<div class="ree-details-set dtb-details">
-											<span>Salse Department</span>
+											<span>Sales Department</span>
 											<a href="tel:+911234567890"> +91 9316048900 </a>
 										</div>
 									</div>
@@ -105,8 +105,8 @@ use PHPMailer\PHPMailer\PHPMailer;
 									<div class="ree-row-set">
 										<div class="ree-icon-set dtb-icon"> <i class="fas fa-envelope"></i>	</div>
 										<div class="ree-details-set dtb-details">
-											<span>Salse Department</span>
-											<a href="mailto:salse@example.com"> sales@byte-weavers.com </a>
+											<span>Sales Department</span>
+											<a href="mailto:sales@byte-weavers.com"> sales@byte-weavers.com </a>
 										</div>
 									</div>
 								</div>
@@ -117,7 +117,7 @@ use PHPMailer\PHPMailer\PHPMailer;
 										<div class="ree-icon-set dtb-icon"> <i class="fas fa-envelope"></i> </div>
 										<div class="ree-details-set dtb-details">
 											<span>HR Department</span>
-											<a href="#"> hr@byte-weavers.com </a>
+											<a href="mailto:hr@byte-weavers.com"> hr@byte-weavers.com </a>
 										</div>
 									</div>
 								</div>
@@ -271,13 +271,13 @@ use PHPMailer\PHPMailer\PHPMailer;
 									<img src="images/icons/new-delhi.svg" alt="new-delhi">
 									<p><span class="ree-text rt40">India</span></p>
 								</div>
-								<p class="pt20 pb20">Tom Extension, 1st Block 2nd Cross, Yello round circle, Jaipur, Rajasthan 123456</p>
-								<div class="loc-contct">
-									<a href="javascript:void(0)" target="blank" class="btn-outline rount-btn" data-toggle="tooltip" title="Map Location"><i class="fas fa-map-marker-alt"></i></a>
-									<a href="javascript:void(0)" target="blank" class="btn-outline rount-btn" data-toggle="tooltip" title="Phone Number"><i class="fas fa-phone-alt"></i></a>
-									<a href="javascript:void(0)" target="blank" class="btn-outline rount-btn" data-toggle="tooltip" title="Email Address"><i class="fas fa-envelope"></i></a>
-									<a href="skype:live:.cid.935503ab957072c9?chat" target="blank" class="btn-outline rount-btn" data-toggle="tooltip" title="Skype Id"><i class="fab fa-skype"></i></a>
-								</div>
+								<p class="pt20 pb20">C-4 Yashonandan Park, Nr Jesal Society, Gorwa, Vadodara, Gujarat 390016</p>
+                                <div class="loc-contct">
+                                    <a href="https://maps.app.goo.gl/rNfVYFJiAU9kd7Qs7" target="blank" class="btn-outline rount-btn" data-toggle="tooltip" title="Map Location"><i class="fas fa-map-marker-alt"></i></a>
+                                    <a href="tel:+919998004908" target="blank" class="btn-outline rount-btn" data-toggle="tooltip" title="Phone Number"><i class="fas fa-phone-alt"></i></a>
+                                    <a href="mailto:sales@byteweavers.com" target="blank" class="btn-outline rount-btn" data-toggle="tooltip" title="Email Address"><i class="fas fa-envelope"></i></a>
+                                    <a href="skype:live:.cid.935503ab957072c9?chat" target="blank" class="btn-outline rount-btn" data-toggle="tooltip" title="Skype Id"><i class="fab fa-skype"></i></a>
+                                </div>
 							</div>
 						</div>
                         <div class="col-lg-4">
