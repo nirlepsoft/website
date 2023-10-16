@@ -197,7 +197,7 @@
                     <div class="work-details-center">
                         <!-- <p class="mb10">UX, UI, Graphic Design</p> -->
                         <h4> Client manager </h4>
-                        <a href="https://byte-weavers.com/crm" class="ree-btn-portfolio ree-btn-grdt1 mt10">Demo<i
+                        <a href="https://byte-weavers.com/crm-new" class="ree-btn-portfolio ree-btn-grdt1 mt10">Demo<i
                                     class="fas fa-arrow-right fa-btn"></i></a>
                     </div>
                 </div>
