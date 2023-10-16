@@ -302,7 +302,7 @@
 				<div class="col-lg-8">
 					<div class="page-headings text-center">
 						<h2 class="mb15">Industries We Serve</h2>
-						<p>From curing code bugs to leveling up user experiences, we're your tech partner across many industries such as healthcare, gaming, travel, and education more exciting one line of code at a time." </p>
+						<p>From curing code bugs to leveling up user experiences, we're your tech partner across many industries such as healthcare, gaming, travel, and education more exciting one line of code at a time. </p>
 					</div>
 				</div>
 			</div>
