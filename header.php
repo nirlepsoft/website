@@ -27,6 +27,10 @@ if($fileName == 'contact-us.php') {
     <!-- Template-style-->
     <link href="css/style.css" rel="stylesheet">
     <link href="css/responsive.css" rel="stylesheet">
+    <!-- Google tag (gtag.js) --> <script async src="https://www.googletagmanager.com/gtag/js?id=G-06EK18JEPJ"></script>
+    <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-06EK18JEPJ');
+    </script>
+
 </head>
 <body>
 <!--Start Preloader -->
