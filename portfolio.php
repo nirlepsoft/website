@@ -69,8 +69,7 @@
 
         <div class="row">
             <div class="col-lg-12">
-                <h2 class="mr50 mb15">Quality is more important than quantity</h2>
-                <p>Take a look of our latest work.</p>
+                <h2 class="mr50 mb15">Our latest work</h2>
 
             </div>
 
@@ -192,7 +191,7 @@
             <div class="col-lg-4 col-md-6  col-sm-6 mt30">
                 <div class="fwb-main-x fwb-a">
                     <div class="work-thumbnails">
-                        <a href="#"><img src="images/portfolio/crm.png" alt="portfolio Byte Weavers" class="img-fluid"></a>
+                        <a href="contact-us.php"><img src="images/portfolio/crm.png" alt="portfolio Byte Weavers" class="img-fluid"></a>
                     </div>
                     <div class="work-details-center">
                         <!-- <p class="mb10">UX, UI, Graphic Design</p> -->
@@ -205,12 +204,12 @@
             <div class="col-lg-4 col-md-6  col-sm-6 mt30">
                 <div class="fwb-main-x fwb-a">
                     <div class="work-thumbnails">
-                        <a href="#"><img src="images/portfolio/Deep.avif" alt="portfolio Byte Weavers"
+                        <a href="contact-us.php"><img src="images/portfolio/Deep.avif" alt="portfolio Byte Weavers"
                                          class="img-fluid"></a>
                     </div>
                     <div class="work-details-center">
                         <!-- <p class="mb10">UX, UI, Graphic Design</p> -->
-                        <a href="#"><h4> For & by community </h4></a>
+                        <h4> For & by community </h4>
                         <a href="contact-us.php" class="ree-btn-portfolio ree-btn-grdt1 mt10">Contact us <i
                                     class="fas fa-arrow-right fa-btn"></i></a>
                     </div>

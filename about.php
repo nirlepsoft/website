@@ -40,7 +40,7 @@
 						ecommerce solutions and cloud development. We stay updated with the technology to
 						build innovative digital products that meet client requirements.</p>
 					<p class="mt15">But what sets us apart? We're not just in the business of building websites and web apps; we're architects of
-						tools designed to elevate the Developer Experience (DevEx). Our also serve the mission to fortify and expedite the development
+						tools designed to elevate the Developer Experience (DevEx). We serve the mission to fortify and expedite the development
 						 process, ensuring that every project we touch becomes a masterpiece.</p>
 						<p class="mt15">In addition to our DevEx prowess, we're masters of proactive vigilance. We specialize in setting up vigilant
 							 alerts for resources and code, ensuring early detection of any anomalies

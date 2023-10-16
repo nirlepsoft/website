@@ -38,8 +38,8 @@ use PHPMailer\PHPMailer\PHPMailer;
                     <td>Message:</td>
                     <td>".$_REQUEST['message']."</td>
                     </tr>
-                    </table>                    
-                  
+                    </table>
+
 ";
 
         $mail->isSMTP();
@@ -72,7 +72,7 @@ use PHPMailer\PHPMailer\PHPMailer;
 							<span class="sub-heading mb15"><i class="fas fa-headset mr5"></i> Let's Talk</span>
 							<h1 class="mb15">Good talks make good projects</h1>
 							<p>We would be happy to hear from you, Please fill in the form below or mail us your requirements.</p>
-							
+
 						</div>
 					</div>
 					<div class="col-lg-7 vcenter">
@@ -137,7 +137,7 @@ use PHPMailer\PHPMailer\PHPMailer;
 					<div class="col-lg-6">
 						<div class="sec-heading m-center">
 							<span class="sub-heading mb15">INQUIRY</span>
-							<h2 class="mb15"><span class="ree-text rt40">Trusted</span>  by The Thousands</h2>
+							<h2 class="mb15"><span class="ree-text rt40">Trusted</span>  by many :) </h2>
 							<p>We would be happy to hear from you, Please fill in the form below or mail us your requirements</p>
 						</div>
 <!--						<div class="trust-logo-block mt60">-->
@@ -188,7 +188,7 @@ use PHPMailer\PHPMailer\PHPMailer;
 					<div class="col-lg-6">
 						<div class="form-contact-hom m-mt60">
 							<div class="form-block bg-w">
-								<div class="form-head"><h4>Please fill in the form below or mail us your requirements :)</h4></div>
+								<div class="form-head"><h4>Please fill in the form below or mail us your requirements and we will reach out to you.</h4></div>
 								<div class="form-body">
 									<form action="contact-us.php" method="post" name="feedback-form">
 										<div class="fieldsets row">
@@ -200,7 +200,7 @@ use PHPMailer\PHPMailer\PHPMailer;
 											<div class="col-md-6"><input type="text" placeholder="Skype" name="skype" required></div>
 										</div>
 										<div class="fieldsets row">
-											
+
 											<div class="col-md-6"><input type="text" placeholder="Subject" name="subject" required></div>
 											<div class="col-md-6"><select name="inquiryFor" required>
 												<option value="">interested in</option>
@@ -222,8 +222,8 @@ use PHPMailer\PHPMailer\PHPMailer;
 										<div class="form-btm-set text-center mt15">
 										<h5>We Deliver</h5>
 
-										<div class="icon-setss mt20">										
-											
+										<div class="icon-setss mt20">
+
 											<div class="icon-rows">
 												<div class="icon-imgg"><img src="images/icons/money.svg" alt="#"></div>
 												<div class="icon-txt"><p>Best Price</p> </div>
@@ -246,9 +246,9 @@ use PHPMailer\PHPMailer\PHPMailer;
 								</div>
 							</div>
 						</div>
-					</div>					
+					</div>
 				</div>
-				</div>				
+				</div>
 			</div>
 			<!--contact info end-->
 
@@ -260,7 +260,7 @@ use PHPMailer\PHPMailer\PHPMailer;
 					<div class="col-lg-12">
 						<div class="sec-heading text-center">
 							<span class="sub-heading mb15">Find Us</span>
-							<h2>Our <span class="ree-text rt40">Office</span> Locations</h2>						
+							<h2>Our <span class="ree-text rt40">Office</span> Locations</h2>
 						</div>
 					</div>
 				</div>
