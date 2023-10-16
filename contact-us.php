@@ -53,7 +53,7 @@ use PHPMailer\PHPMailer\PHPMailer;
         $mail->Port       = 587;
 
         $mail->setFrom('sales@byte-weavers.com', 'Byte Weavers');
-        $mail->addAddress('nirlep.soft@gmail.com', 'chintan patel');
+        $mail->addAddress('sales@byte-weavers.com', 'Byte Weavers');
 
         $mail->isHTML(true);
         $mail->Subject = 'Inquiry from Byte Wavers contact Form';
