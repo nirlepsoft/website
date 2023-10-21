@@ -96,20 +96,19 @@
         </div>
 
         <div class="row justify-content-center mt70">
-            <div class="col-lg-4 col-md-6  col-sm-6 mt30">
+            <!-- <div class="col-lg-4 col-md-6  col-sm-6 mt30">
                 <div class="fwb-main-x fwb-a">
                     <div class="work-thumbnails">
                         <a href="portfolio-details-paint.php"> <img src="images/portfolio/It-s-Paint-Party-LLC.avif"
                                                                     alt="portfolio Byte Weavers" class="img-fluid"></a>
                     </div>
                     <div class="work-details-center">
-                        <!-- <p class="mb10">UX, UI, Design, Development</p> -->
                         <a href="portfolio-details-paint.php"><h4> Paint party organizer </h4></a>
                         <a href="https://byte-weavers.com/paint/" class="ree-btn-portfolio ree-btn-grdt1 mt10">Demo <i
                                     class="fas fa-arrow-right fa-btn"></i></a>
                     </div>
                 </div>
-            </div>
+            </div> -->
 
             <div class="col-lg-4 col-md-6  col-sm-6 mt30">
                 <div class="fwb-main-x fwb-a">
