@@ -38,8 +38,8 @@ if (isset($_REQUEST['submit'])){
                     <td>Message:</td>
                     <td>".$_REQUEST['message']."</td>
                     </tr>
-                    </table>                    
-                  
+                    </table>
+
 ";
 
     $mail->isSMTP();
@@ -353,7 +353,7 @@ if (isset($_REQUEST['submit'])){
                     </div>
                     <div class="fwb-main-x fwb-a">
                         <div class="work-thumbnails">
-                            <a href="#"> <img src="images/portfolio/TRACE-point.avif" alt="portfolio byte weavers"
+                            <a href="#"> <img src="images/portfolio/TRACE-point.png" alt="portfolio byte weavers"
                                               class="img-fluid"> </a>
                         </div>
 <!--                        <div class="work-details">-->
@@ -401,17 +401,6 @@ if (isset($_REQUEST['submit'])){
                         <!--                            <h4><a href="#"> Furniture ios app kit design development </a></h4>-->
                         <!--                        </div>-->
                     </div>
-                    <div class="fwb-main-x fwb-a">
-                        <div class="work-thumbnails">
-                            <a href="#"> <img src="images/portfolio/It-s-Paint-Party-LLC.avif" alt="portfolio byte weavers"
-                                              class="img-fluid"> </a>
-                        </div>
-                        <!--                        <div class="work-details">-->
-                        <!--                            <p class="mb10">UX, UI, Graphic Design</p>-->
-                        <!--                            <h4><a href="#"> Furniture ios app kit design development </a></h4>-->
-                        <!--                        </div>-->
-                    </div>
-                </div>
             </div>
         </div>
     </div>
