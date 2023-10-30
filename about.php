@@ -5,10 +5,12 @@
 				<div class="col-lg-6">
 					<div class="page-heading mr25">
 						<span class="sub-heading mb15" data-aos="fade-up" data-aos-delay="200"><i class="fas fa-building mr5"></i> Who We Are</span>
-						<h1 data-aos="fade-up" data-aos-delay="400"> We are the <span class="ree-text rt45">Nexus</span> of youthful creativity and seasoned wisdom.</h1>
-						<p class="mt30 h-light" data-aos="fade-up" data-aos-delay="600">We are a team of engineers boasts a collective experience of over 15 years, making us the unconventional frontrunners in the tech landscape.</p>
-						<p class="mt15 h-light" data-aos="fade-up" data-aos-delay="800">Our experts provide a wide range of services including app design, web development, digital marketing, ecommerce solutions and cloud development.
-							Beyond mastering the tech, we craft tools to amplify Developer Experience (DevEx), fueling faster and more robust development for your organization. We're experts in setting up resource and code alerts for early anomaly detection.
+						<h1 data-aos="fade-up" data-aos-delay="400"> We are the <span class="ree-text rt45">Nexus</span> of youthful creativity and seasoned wisdom</h1>
+						<p class="mt30 h-light" data-aos="fade-up" data-aos-delay="600">We are a team of highly skilled engineers, boasting an impressive collective
+							experience of over 15 years. As unconventional frontrunners in the tech landscape, our experts offer a diverse array of services. These services
+							encompass app design, web development, digital marketing, e-commerce solutions, and cloud development. Moreover, we excel in crafting tools that 
+							enhance Developer Experience (DevEx), facilitating faster and more robust development for your organization. We are specialists in establishing
+							resource and code alerts for early anomaly detection, ensuring the utmost efficiency and quality in our solutions
 					</p>
 					</div>
 				</div>
