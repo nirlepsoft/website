@@ -5,7 +5,7 @@
 				<div class="col-lg-9">
 					<div class="page-headings service-page">
 						<span class="sub-heading mb15" data-aos="fade-in" data-aos-delay="200">Our Services</span>
-						<h1 data-aos="fade-in" data-aos-delay="400"><span class="ree-text rt45" >Byte Weavers</span>, Where Experience and Innovation Converge.</h1>
+						<h1 data-aos="fade-in" data-aos-delay="400"><span class="ree-text rt45" >Byte Weavers</span>, Where Experience and Innovation Converge</h1>
 						<p class="mt30 h-light" data-aos="fade-in" data-aos-delay="600">Nurturing an ambitious young IT company, we relentlessly pursue success while prioritizing the highest quality in every product we create.</p>
 					</div>
 					</div>
@@ -58,7 +58,7 @@
 			<div class="row">
 				<div class="col-lg-4">
 					<div class="page-headings m-center">
-						<h3>We make the collaboration of people and interface more intensive and exciting.</h3>
+						<h3>We make the collaboration of people and interface more intensive and exciting</h3>
 						<a href="get-quote.html" class="ree-btn  ree-btn-grdt2 mt40">Need a Designer <i class="fas fa-arrow-right fa-btn"></i></a>
 					</div>
 				</div>

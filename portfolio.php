@@ -9,7 +9,7 @@
                     <span class="sub-heading mb15" data-aos="fade-in" data-aos-delay="200"><i
                                 class="fas fa-briefcase mr5"></i> Quality Work</span>
                     <h1 class="mb15" data-aos="fade-in" data-aos-delay="400">Some of our <span class="ree-text rt40">Finest</span>
-                        work.</h1>
+                        work</h1>
                     <p class="h-light" data-aos="fade-in" data-aos-delay="600">We Have Built High Impact Solutions
                         Across Industries.</p>
                     <a href="contact-us.php" class="ree-btn  ree-btn-grdt1 mt40" data-aos="fade-in"
