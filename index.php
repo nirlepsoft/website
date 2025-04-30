@@ -1201,8 +1201,8 @@ if (isset($_REQUEST['submit'])){
                                 +91 9316048900</a>
                         </div>
                         <div class="c-infot">
-                            <span>HR Department</span> <a href="tel:+919998004908"><i class="fas fa-phone-alt"></i> +91
-                                9998004908</a>
+                            <span>HR Department</span> <a href="tel:+919924880997"><i class="fas fa-phone-alt"></i> +91
+                                9924880997</a>
                         </div>
                     </div>
                     <div class="contact-infos mt35">
@@ -1292,10 +1292,10 @@ if (isset($_REQUEST['submit'])){
                         <img src="images/icons/new-delhi.svg" alt="new-delhi">
                         <p><span class="ree-text rt40">India</span></p>
                     </div>
-                    <p class="pt20 pb20">C-4 Yashonandan Park, Nr Jesal Society, Gorwa, Vadodara, Gujarat 390016</p>
+                    <p class="pt20 pb20">Yashonandan Park, Nr Jesal Society, Gorwa, Vadodara, Gujarat 390016</p>
                     <div class="loc-contct">
                         <a href="https://maps.app.goo.gl/rNfVYFJiAU9kd7Qs7" target="blank" class="btn-outline rount-btn" data-toggle="tooltip" title="Map Location"><i class="fas fa-map-marker-alt"></i></a>
-                        <a href="tel:+919998004908" target="blank" class="btn-outline rount-btn" data-toggle="tooltip" title="Phone Number"><i class="fas fa-phone-alt"></i></a>
+                        <a href="tel:+919924880997" target="blank" class="btn-outline rount-btn" data-toggle="tooltip" title="Phone Number"><i class="fas fa-phone-alt"></i></a>
                         <a href="mailto:sales@byteweavers.com" target="blank" class="btn-outline rount-btn" data-toggle="tooltip" title="Email Address"><i class="fas fa-envelope"></i></a>
                         <a href="skype:live:.cid.935503ab957072c9?chat" target="blank" class="btn-outline rount-btn" data-toggle="tooltip" title="Skype Id"><i class="fab fa-skype"></i></a>
                     </div>

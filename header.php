@@ -99,7 +99,7 @@ if($fileName == 'contact-us.php') {
                 </ul>
                 <ul class="bottom-nav">
                     <li class="ree-hc">
-                        <a href="tel:+919998004908" rel="noreferrer" target="_blank">
+                        <a href="tel:+919924880997" rel="noreferrer" target="_blank">
                             <svg version="1.1"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 25.625 25.625" style="enable-background:new 0 0 25.625 25.625;" xml:space="preserve">
                     <g>
                         <path d="M22.079,17.835c-1.548-1.324-3.119-2.126-4.648-0.804l-0.913,0.799 c-0.668,0.58-1.91,3.29-6.712-2.234C5.005,10.079,7.862,9.22,8.531,8.645l0.918-0.8c1.521-1.325,0.947-2.993-0.15-4.71l-0.662-1.04  C7.535,0.382,6.335-0.743,4.81,0.58L3.986,1.3C3.312,1.791,1.428,3.387,0.971,6.419c-0.55,3.638,1.185,7.804,5.16,12.375
@@ -124,7 +124,7 @@ if($fileName == 'contact-us.php') {
                         </a>
                     </li>
                     <li class="ree-hc">
-                        <a href="https://wa.me/+919998004908" rel="noreferrer" target="_blank">
+                        <a href="https://wa.me/+919924880997" rel="noreferrer" target="_blank">
                             <svg version="1.1"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512"	style="enable-background:new 0 0 512 512;" xml:space="preserve">
                     <g>
                         <path d="M256.064,0h-0.128C114.784,0,0,114.816,0,256c0,56,18.048,107.904,48.736,150.048l-31.904,95.104l98.4-31.456 C155.712,496.512,204,512,256.064,512C397.216,512,512,397.152,512,256S397.216,0,256.064,0z M405.024,361.504 c-6.176,17.44-30.688,31.904-50.24,36.128c-13.376,2.848-30.848,5.12-89.664-19.264C189.888,347.2,141.44,270.752,137.664,265.792
