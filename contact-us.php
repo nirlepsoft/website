@@ -83,7 +83,7 @@ use PHPMailer\PHPMailer\PHPMailer;
 										<div class="ree-icon-set dtb-icon"> <i class="fas fa-phone-alt"></i>	</div>
 										<div class="ree-details-set dtb-details">
 											<span>Sales Department</span>
-											<a href="tel:+911234567890"> +91 9316048900 </a>
+											<a href="tel:+919316048900"> +91 9316048900 </a>
 										</div>
 									</div>
 								</div>
@@ -94,7 +94,7 @@ use PHPMailer\PHPMailer\PHPMailer;
 										<div class="ree-icon-set dtb-icon"> <i class="fas fa-phone-alt"></i> </div>
 										<div class="ree-details-set dtb-details">
 											<span>HR Department</span>
-											<a href="tel:+911234567890"> +91 9998004908 </a>
+											<a href="tel:+919924880997"> +91 9924880997 </a>
 										</div>
 									</div>
 								</div>
@@ -134,58 +134,7 @@ use PHPMailer\PHPMailer\PHPMailer;
 		<div class="container">
 
 				<div class="row flx-start">
-					<div class="col-lg-6">
-						<div class="sec-heading m-center">
-							<span class="sub-heading mb15">INQUIRY</span>
-							<h2 class="mb15"><span class="ree-text rt40">Trusted</span>  by many :) </h2>
-							<p>We would be happy to hear from you, Please fill in the form below or mail us your requirements</p>
-						</div>
-<!--						<div class="trust-logo-block mt60">-->
-<!--							<ul class="ree-card">-->
-<!--								<li><img src="images/brand-logo/partner-logo-1.svg" alt="logo"></li>-->
-<!--								<li><img src="images/brand-logo/partner-logo-2.svg" alt="logo"></li>-->
-<!--								<li><img src="images/brand-logo/partner-logo-3.svg" alt="logo"></li>-->
-<!--								<li><img src="images/brand-logo/partner-logo-4.svg" alt="logo"></li>-->
-<!--								<li><img src="images/brand-logo/partner-logo-5.svg" alt="logo"></li>-->
-<!--								<li><img src="images/brand-logo/partner-logo-6.svg" alt="logo"></li>-->
-<!--																						-->
-<!--							</ul>-->
-<!--						</div>-->
-
-						<div class="ree-card mt30 trust-review owl-carousel">
-							<div class="items">
-								<div class="review-text">
-									<p>What impressed me the most was their ability to project management and guidance. It's clear that they not only have the knowledge but also the passion to deliver results that exceed expectations. They go above and beyond to ensure their clients are not just happy but delighted.</p>
-								</div>
-								<div class="ree-row-set mt30">
-									<div class="media vcenter">
-<!--										<div class="ree-icon-set img-round80"><img src="images/users/user4.jpg" alt="img" class="img-fluid"></div>-->
-										<div class="ree-details-set user-info">
-											<h5>Kane Williams</h5>
-<!--											<p>ABC Business, <small>Jaipur, Rajasthan</small></p>-->
-										</div>
-									</div>
-								</div>
-							</div>
-
-							<div class="items">
-								<div class="review-text">
-									<p>The Goodwill Choice Website and Application has exceeded all our expectations. Communication & correspondence has been great, clarifying & addressing issues was absolutely prompt with team. My experience with Byte Weavers has been great, I personally thank the development team and look forward to continuing our association in future.</p>
-								</div>
-								<div class="ree-row-set mt30">
-									<div class="media vcenter">
-<!--										<div class="ree-icon-set img-round80"><img src="images/users/user4.jpg" alt="img" class="img-fluid"></div>-->
-										<div class="ree-details-set user-info">
-											<h5>Suriya Chalee</h5>
-<!--											<p>ABC Business, <small>Jaipur, Rajasthan</small></p>-->
-										</div>
-									</div>
-								</div>
-							</div>
-
-						</div>
-					</div>
-					<div class="col-lg-6">
+					<div class="col-lg-6 centered-element">
 						<div class="form-contact-hom m-mt60">
 							<div class="form-block bg-w">
 								<div class="form-head"><h4>Please fill in the form below or mail us your requirements and we will reach out to you.</h4></div>
@@ -272,10 +221,10 @@ use PHPMailer\PHPMailer\PHPMailer;
 									<img src="images/icons/new-delhi.svg" alt="new-delhi">
 									<p><span class="ree-text rt40">India</span></p>
 								</div>
-								<p class="pt20 pb20">C-4 Yashonandan Park, Nr Jesal Society, Gorwa, Vadodara, Gujarat 390016</p>
+								<p class="pt20 pb20">Yashonandan Park, Nr Jesal Society, Gorwa, Vadodara, Gujarat 390016</p>
                                 <div class="loc-contct">
                                     <a href="https://maps.app.goo.gl/rNfVYFJiAU9kd7Qs7" target="blank" class="btn-outline rount-btn" data-toggle="tooltip" title="Map Location"><i class="fas fa-map-marker-alt"></i></a>
-                                    <a href="tel:+919998004908" target="blank" class="btn-outline rount-btn" data-toggle="tooltip" title="Phone Number"><i class="fas fa-phone-alt"></i></a>
+                                    <a href="tel:+919924880997" target="blank" class="btn-outline rount-btn" data-toggle="tooltip" title="Phone Number"><i class="fas fa-phone-alt"></i></a>
                                     <a href="mailto:sales@byteweavers.com" target="blank" class="btn-outline rount-btn" data-toggle="tooltip" title="Email Address"><i class="fas fa-envelope"></i></a>
                                     <a href="skype:live:.cid.935503ab957072c9?chat" target="blank" class="btn-outline rount-btn" data-toggle="tooltip" title="Skype Id"><i class="fab fa-skype"></i></a>
                                 </div>

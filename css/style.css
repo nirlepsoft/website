@@ -3045,3 +3045,10 @@ html body .header-bhv.sticky .mini-header-bar{ max-height: 0px;   min-height: 0p
     line-height: 35px;
     white-space: nowrap;
 }
+
+.centered-element {
+    display: block;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}

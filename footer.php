@@ -7,7 +7,7 @@
                     <h5>Contact info</h5>
                     <ul class="footer-links-list social-linkz">
                         <li><a href="tel:+919316048900"><span><i class="fas fa-phone-square-alt"></i></span> +91 9316048900 </a></li>
-                        <li><a href="https://wa.me/+919998004908"><span><i class="fab fa-whatsapp-square"></i></span> +91 9998004908</a></li>
+                        <li><a href="https://wa.me/+919924880997"><span><i class="fab fa-whatsapp-square"></i></span> +91 9924880997</a></li>
                         <li><a href="https://wa.me/+12038859346"><span><i class="fab fa-whatsapp-square"></i></span> +1 2038859346</a></li>
                         <li><a href="mailto:hr@byte-weavers.com"><span><i class="fas fa-envelope"></i></span> hr@byte-weavers.com</a></li>
                         <li><a href="mailto:sales@byte-weavers.com"><span><i class="fas fa-envelope"></i></span> sales@byte-weavers.com</a></li>
